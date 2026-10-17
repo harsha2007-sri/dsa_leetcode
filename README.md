@@ -6,26 +6,26 @@
 
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
-| Easy | 72 | 72 |
+| Easy | 73 | 73 |
 | Medium | 40 | 40 |
 | Hard | 3 | 3 |
-| **Total** | **115** | **115** |
+| **Total** | **116** | **116** |
 
-115 problem(s), 115 solution file(s) in this repository.
+116 problem(s), 116 solution file(s) in this repository.
 Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-10-17).
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python | 109 |
+| Python | 110 |
 | Python3 | 6 |
 
 Browse by topic: [TOPICS.md](TOPICS.md)
 
 ## Solutions
 
-<details><summary><b>Easy</b> (72)</summary>
+<details><summary><b>Easy</b> (73)</summary>
 
 | # | Problem | Language(s) | Link |
 |---|---------|-------------|------|
@@ -45,6 +45,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Python | [folder](Easy/0121-best-time-to-buy-and-sell-stock/) |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Python | [folder](Easy/0125-valid-palindrome/) |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | Python | [folder](Easy/0136-single-number/) |
+| 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Python | [folder](Easy/0141-linked-list-cycle/) |
 | 144 | [Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) | Python | [folder](Easy/0144-binary-tree-preorder-traversal/) |
 | 145 | [Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) | Python | [folder](Easy/0145-binary-tree-postorder-traversal/) |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Python | [folder](Easy/0206-reverse-linked-list/) |
