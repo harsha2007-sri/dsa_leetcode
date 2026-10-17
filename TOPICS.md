@@ -141,13 +141,14 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3838 [Weighted Word Mapping](Easy/3838-weighted-word-mapping/) - Easy
 - #3856 [Trim Trailing Vowels](Easy/3856-trim-trailing-vowels/) - Easy
 
-## Hash Table (20)
+## Hash Table (21)
 
 - #1 [Two Sum](Easy/0001-two-sum/) - Easy
 - #3 [Longest Substring Without Repeating Characters](Medium/0003-longest-substring-without-repeating-characters/) - Medium
 - #12 [Integer to Roman](Medium/0012-integer-to-roman/) - Medium
 - #36 [Valid Sudoku](Medium/0036-valid-sudoku/) - Medium
 - #49 [Group Anagrams](Medium/0049-group-anagrams/) - Medium
+- #141 [Linked List Cycle](Easy/0141-linked-list-cycle/) - Easy
 - #166 [Fraction to Recurring Decimal](Medium/0166-fraction-to-recurring-decimal/) - Medium
 - #217 [Contains Duplicate](Easy/0217-contains-duplicate/) - Easy
 - #242 [Valid Anagram](Easy/0242-valid-anagram/) - Easy
@@ -187,6 +188,22 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3536 [Maximum Product of Two Digits](Easy/3536-maximum-product-of-two-digits/) - Easy
 - #3731 [Find Missing Elements](Easy/3731-find-missing-elements/) - Easy
 
+## Two Pointers (13)
+
+- #5 [Longest Palindromic Substring](Medium/0005-longest-palindromic-substring/) - Medium
+- #27 [Remove Element](Easy/0027-remove-element/) - Easy
+- #28 [Find the Index of the First Occurrence in a String](Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) - Easy
+- #75 [Sort Colors](Medium/0075-sort-colors/) - Medium
+- #125 [Valid Palindrome](Easy/0125-valid-palindrome/) - Easy
+- #141 [Linked List Cycle](Easy/0141-linked-list-cycle/) - Easy
+- #283 [Move Zeroes](Easy/0283-move-zeroes/) - Easy
+- #287 [Find the Duplicate Number](Medium/0287-find-the-duplicate-number/) - Medium
+- #392 [Is Subsequence](Easy/0392-is-subsequence/) - Easy
+- #876 [Middle of the Linked List](Easy/0876-middle-of-the-linked-list/) - Easy
+- #905 [Sort Array By Parity](Easy/0905-sort-array-by-parity/) - Easy
+- #2095 [Delete the Middle Node of a Linked List](Medium/2095-delete-the-middle-node-of-a-linked-list/) - Medium
+- #3069 [Distribute Elements Into Two Arrays I](Easy/3069-distribute-elements-into-two-arrays-i/) - Easy
+
 ## Binary Search (12)
 
 - #33 [Search in Rotated Sorted Array](Medium/0033-search-in-rotated-sorted-array/) - Medium
@@ -201,21 +218,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #2089 [Find Target Indices After Sorting Array](Easy/2089-find-target-indices-after-sorting-array/) - Easy
 - #3312 [Sorted GCD Pair Queries](Hard/3312-sorted-gcd-pair-queries/) - Hard
 - #3532 [Path Existence Queries in a Graph I](Medium/3532-path-existence-queries-in-a-graph-i/) - Medium
-
-## Two Pointers (12)
-
-- #5 [Longest Palindromic Substring](Medium/0005-longest-palindromic-substring/) - Medium
-- #27 [Remove Element](Easy/0027-remove-element/) - Easy
-- #28 [Find the Index of the First Occurrence in a String](Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) - Easy
-- #75 [Sort Colors](Medium/0075-sort-colors/) - Medium
-- #125 [Valid Palindrome](Easy/0125-valid-palindrome/) - Easy
-- #283 [Move Zeroes](Easy/0283-move-zeroes/) - Easy
-- #287 [Find the Duplicate Number](Medium/0287-find-the-duplicate-number/) - Medium
-- #392 [Is Subsequence](Easy/0392-is-subsequence/) - Easy
-- #876 [Middle of the Linked List](Easy/0876-middle-of-the-linked-list/) - Easy
-- #905 [Sort Array By Parity](Easy/0905-sort-array-by-parity/) - Easy
-- #2095 [Delete the Middle Node of a Linked List](Medium/2095-delete-the-middle-node-of-a-linked-list/) - Medium
-- #3069 [Distribute Elements Into Two Arrays I](Easy/3069-distribute-elements-into-two-arrays-i/) - Easy
 
 ## Dynamic Programming (11)
 
@@ -276,6 +278,16 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3069 [Distribute Elements Into Two Arrays I](Easy/3069-distribute-elements-into-two-arrays-i/) - Easy
 - #3838 [Weighted Word Mapping](Easy/3838-weighted-word-mapping/) - Easy
 
+## Linked List (7)
+
+- #2 [Add Two Numbers](Medium/0002-add-two-numbers/) - Medium
+- #83 [Remove Duplicates from Sorted List](Easy/0083-remove-duplicates-from-sorted-list/) - Easy
+- #141 [Linked List Cycle](Easy/0141-linked-list-cycle/) - Easy
+- #206 [Reverse Linked List](Easy/0206-reverse-linked-list/) - Easy
+- #707 [Design Linked List](Medium/0707-design-linked-list/) - Medium
+- #876 [Middle of the Linked List](Easy/0876-middle-of-the-linked-list/) - Easy
+- #2095 [Delete the Middle Node of a Linked List](Medium/2095-delete-the-middle-node-of-a-linked-list/) - Medium
+
 ## Game Theory (6)
 
 - #292 [Nim Game](Easy/0292-nim-game/) - Easy
@@ -293,15 +305,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #2029 [Stone Game IX](Medium/2029-stone-game-ix/) - Medium
 - #3014 [Minimum Number of Pushes to Type Word I](Easy/3014-minimum-number-of-pushes-to-type-word-i/) - Easy
 - #3016 [Minimum Number of Pushes to Type Word II](Medium/3016-minimum-number-of-pushes-to-type-word-ii/) - Medium
-
-## Linked List (6)
-
-- #2 [Add Two Numbers](Medium/0002-add-two-numbers/) - Medium
-- #83 [Remove Duplicates from Sorted List](Easy/0083-remove-duplicates-from-sorted-list/) - Easy
-- #206 [Reverse Linked List](Easy/0206-reverse-linked-list/) - Easy
-- #707 [Design Linked List](Medium/0707-design-linked-list/) - Medium
-- #876 [Middle of the Linked List](Easy/0876-middle-of-the-linked-list/) - Easy
-- #2095 [Delete the Middle Node of a Linked List](Medium/2095-delete-the-middle-node-of-a-linked-list/) - Medium
 
 ## Binary Tree (5)
 
@@ -415,6 +418,11 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #1979 [Find Greatest Common Divisor of Array](Easy/1979-find-greatest-common-divisor-of-array/) - Easy
 - #3312 [Sorted GCD Pair Queries](Hard/3312-sorted-gcd-pair-queries/) - Hard
 
+## Floyd's Cycle Finding Algorithm (2)
+
+- #141 [Linked List Cycle](Easy/0141-linked-list-cycle/) - Easy
+- #287 [Find the Duplicate Number](Medium/0287-find-the-duplicate-number/) - Medium
+
 ## Greatest Common Divisor (2)
 
 - #1979 [Find Greatest Common Divisor of Array](Easy/1979-find-greatest-common-divisor-of-array/) - Easy
@@ -473,10 +481,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 ## Design (1)
 
 - #707 [Design Linked List](Medium/0707-design-linked-list/) - Medium
-
-## Floyd's Cycle Finding Algorithm (1)
-
-- #287 [Find the Duplicate Number](Medium/0287-find-the-duplicate-number/) - Medium
 
 ## Graph Theory (1)
 
