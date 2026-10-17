@@ -7,18 +7,18 @@
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
 | Easy | 72 | 72 |
-| Medium | 39 | 39 |
+| Medium | 40 | 40 |
 | Hard | 3 | 3 |
-| **Total** | **114** | **114** |
+| **Total** | **115** | **115** |
 
-114 problem(s), 114 solution file(s) in this repository.
+115 problem(s), 115 solution file(s) in this repository.
 Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-10-17).
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python | 108 |
+| Python | 109 |
 | Python3 | 6 |
 
 Browse by topic: [TOPICS.md](TOPICS.md)
@@ -104,7 +104,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 
 </details>
 
-### Medium (39)
+### Medium (40)
 
 | # | Problem | Language(s) | Link |
 |---|---------|-------------|------|
@@ -140,6 +140,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 1358 | [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | Python | [folder](Medium/1358-number-of-substrings-containing-all-three-characters/) |
 | 1846 | [Maximum Element After Decreasing and Rearranging](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/) | Python | [folder](Medium/1846-maximum-element-after-decreasing-and-rearranging/) |
 | 2029 | [Stone Game IX](https://leetcode.com/problems/stone-game-ix/) | Python | [folder](Medium/2029-stone-game-ix/) |
+| 2095 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | Python | [folder](Medium/2095-delete-the-middle-node-of-a-linked-list/) |
 | 3016 | [Minimum Number of Pushes to Type Word II](https://leetcode.com/problems/minimum-number-of-pushes-to-type-word-ii/) | Python | [folder](Medium/3016-minimum-number-of-pushes-to-type-word-ii/) |
 | 3499 | [Maximize Active Section with Trade I](https://leetcode.com/problems/maximize-active-section-with-trade-i/) | Python | [folder](Medium/3499-maximize-active-section-with-trade-i/) |
 | 3513 | [Number of Unique XOR Triplets I](https://leetcode.com/problems/number-of-unique-xor-triplets-i/) | Python | [folder](Medium/3513-number-of-unique-xor-triplets-i/) |
