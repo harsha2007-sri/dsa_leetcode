@@ -103,7 +103,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3754 [Concatenate Non-Zero Digits and Multiply by Sum I](Easy/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) - Easy
 - #3756 [Concatenate Non-Zero Digits and Multiply by Sum II](Medium/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) - Medium
 
-## String (35)
+## String (36)
 
 - #3 [Longest Substring Without Repeating Characters](Medium/0003-longest-substring-without-repeating-characters/) - Medium
 - #5 [Longest Palindromic Substring](Medium/0005-longest-palindromic-substring/) - Medium
@@ -129,6 +129,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #1047 [Remove All Adjacent Duplicates In String](Easy/1047-remove-all-adjacent-duplicates-in-string/) - Easy
 - #1081 [Smallest Subsequence of Distinct Characters](Medium/1081-smallest-subsequence-of-distinct-characters/) - Medium
 - #1358 [Number of Substrings Containing All Three Characters](Medium/1358-number-of-substrings-containing-all-three-characters/) - Medium
+- #1614 [Maximum Nesting Depth of the Parentheses](Easy/1614-maximum-nesting-depth-of-the-parentheses/) - Easy
 - #1935 [Maximum Number of Words You Can Type](Easy/1935-maximum-number-of-words-you-can-type/) - Easy
 - #1967 [Number of Strings That Appear as Substrings in Word](Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) - Easy
 - #2278 [Percentage of Letter in String](Easy/2278-percentage-of-letter-in-string/) - Easy
@@ -233,7 +234,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #1025 [Divisor Game](Easy/1025-divisor-game/) - Easy
 - #1406 [Stone Game III](Hard/1406-stone-game-iii/) - Hard
 
-## Stack (9)
+## Stack (10)
 
 - #20 [Valid Parentheses](Easy/0020-valid-parentheses/) - Easy
 - #94 [Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/) - Easy
@@ -244,6 +245,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #739 [Daily Temperatures](Medium/0739-daily-temperatures/) - Medium
 - #1047 [Remove All Adjacent Duplicates In String](Easy/1047-remove-all-adjacent-duplicates-in-string/) - Easy
 - #1081 [Smallest Subsequence of Distinct Characters](Medium/1081-smallest-subsequence-of-distinct-characters/) - Medium
+- #1614 [Maximum Nesting Depth of the Parentheses](Easy/1614-maximum-nesting-depth-of-the-parentheses/) - Easy
 
 ## Bit Manipulation (8)
 
@@ -393,6 +395,11 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #378 [Kth Smallest Element in a Sorted Matrix](Medium/0378-kth-smallest-element-in-a-sorted-matrix/) - Medium
 - #1464 [Maximum Product of Two Elements in an Array](Easy/1464-maximum-product-of-two-elements-in-an-array/) - Easy
 
+## Bracket Sequences (2)
+
+- #20 [Valid Parentheses](Easy/0020-valid-parentheses/) - Easy
+- #1614 [Maximum Nesting Depth of the Parentheses](Easy/1614-maximum-nesting-depth-of-the-parentheses/) - Easy
+
 ## Brainteaser (2)
 
 - #292 [Nim Game](Easy/0292-nim-game/) - Easy
@@ -465,10 +472,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 ## Boyer–Moore String-Search Algorithm (1)
 
 - #28 [Find the Index of the First Occurrence in a String](Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) - Easy
-
-## Bracket Sequences (1)
-
-- #20 [Valid Parentheses](Easy/0020-valid-parentheses/) - Easy
 
 ## Bucket Sort (1)
 
