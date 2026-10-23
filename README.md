@@ -6,26 +6,26 @@
 
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
-| Easy | 74 | 74 |
+| Easy | 75 | 75 |
 | Medium | 40 | 40 |
 | Hard | 3 | 3 |
-| **Total** | **117** | **117** |
+| **Total** | **118** | **118** |
 
-117 problem(s), 117 solution file(s) in this repository.
+118 problem(s), 118 solution file(s) in this repository.
 Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-10-23).
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python | 111 |
+| Python | 112 |
 | Python3 | 6 |
 
 Browse by topic: [TOPICS.md](TOPICS.md)
 
 ## Solutions
 
-<details><summary><b>Easy</b> (74)</summary>
+<details><summary><b>Easy</b> (75)</summary>
 
 | # | Problem | Language(s) | Link |
 |---|---------|-------------|------|
@@ -66,6 +66,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | Python | [folder](Easy/0509-fibonacci-number/) |
 | 628 | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | Python | [folder](Easy/0628-maximum-product-of-three-numbers/) |
 | 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | Python3 | [folder](Easy/0643-maximum-average-subarray-i/) |
+| 682 | [Baseball Game](https://leetcode.com/problems/baseball-game/) | Python | [folder](Easy/0682-baseball-game/) |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | Python3 | [folder](Easy/0704-binary-search/) |
 | 796 | [Rotate String](https://leetcode.com/problems/rotate-string/) | Python | [folder](Easy/0796-rotate-string/) |
 | 867 | [Transpose Matrix](https://leetcode.com/problems/transpose-matrix/) | Python | [folder](Easy/0867-transpose-matrix/) |
