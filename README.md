@@ -6,26 +6,26 @@
 
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
-| Easy | 75 | 75 |
+| Easy | 76 | 76 |
 | Medium | 40 | 40 |
 | Hard | 3 | 3 |
-| **Total** | **118** | **118** |
+| **Total** | **119** | **119** |
 
-118 problem(s), 118 solution file(s) in this repository.
+119 problem(s), 119 solution file(s) in this repository.
 Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-10-23).
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python | 112 |
+| Python | 113 |
 | Python3 | 6 |
 
 Browse by topic: [TOPICS.md](TOPICS.md)
 
 ## Solutions
 
-<details><summary><b>Easy</b> (75)</summary>
+<details><summary><b>Easy</b> (76)</summary>
 
 | # | Problem | Language(s) | Link |
 |---|---------|-------------|------|
@@ -81,6 +81,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 1464 | [Maximum Product of Two Elements in an Array](https://leetcode.com/problems/maximum-product-of-two-elements-in-an-array/) | Python | [folder](Easy/1464-maximum-product-of-two-elements-in-an-array/) |
 | 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | Python | [folder](Easy/1470-shuffle-the-array/) |
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | Python | [folder](Easy/1480-running-sum-of-1d-array/) |
+| 1544 | [Make The String Great](https://leetcode.com/problems/make-the-string-great/) | Python | [folder](Easy/1544-make-the-string-great/) |
 | 1614 | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | Python | [folder](Easy/1614-maximum-nesting-depth-of-the-parentheses/) |
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | Python | [folder](Easy/1929-concatenation-of-array/) |
 | 1935 | [Maximum Number of Words You Can Type](https://leetcode.com/problems/maximum-number-of-words-you-can-type/) | Python | [folder](Easy/1935-maximum-number-of-words-you-can-type/) |
