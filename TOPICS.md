@@ -2,7 +2,7 @@
 
 Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 
-## Array (59)
+## Array (60)
 
 - #1 [Two Sum](Easy/0001-two-sum/) - Easy
 - #27 [Remove Element](Easy/0027-remove-element/) - Easy
@@ -29,6 +29,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #287 [Find the Duplicate Number](Medium/0287-find-the-duplicate-number/) - Medium
 - #378 [Kth Smallest Element in a Sorted Matrix](Medium/0378-kth-smallest-element-in-a-sorted-matrix/) - Medium
 - #486 [Predict the Winner](Medium/0486-predict-the-winner/) - Medium
+- #496 [Next Greater Element I](Easy/0496-next-greater-element-i/) - Easy
 - #628 [Maximum Product of Three Numbers](Easy/0628-maximum-product-of-three-numbers/) - Easy
 - #643 [Maximum Average Subarray I](Easy/0643-maximum-average-subarray-i/) - Easy
 - #682 [Baseball Game](Easy/0682-baseball-game/) - Easy
@@ -149,7 +150,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3838 [Weighted Word Mapping](Easy/3838-weighted-word-mapping/) - Easy
 - #3856 [Trim Trailing Vowels](Easy/3856-trim-trailing-vowels/) - Easy
 
-## Hash Table (21)
+## Hash Table (22)
 
 - #1 [Two Sum](Easy/0001-two-sum/) - Easy
 - #3 [Longest Substring Without Repeating Characters](Medium/0003-longest-substring-without-repeating-characters/) - Medium
@@ -161,6 +162,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #217 [Contains Duplicate](Easy/0217-contains-duplicate/) - Easy
 - #242 [Valid Anagram](Easy/0242-valid-anagram/) - Easy
 - #268 [Missing Number](Easy/0268-missing-number/) - Easy
+- #496 [Next Greater Element I](Easy/0496-next-greater-element-i/) - Easy
 - #1358 [Number of Substrings Containing All Three Characters](Medium/1358-number-of-substrings-containing-all-three-characters/) - Medium
 - #1935 [Maximum Number of Words You Can Type](Easy/1935-maximum-number-of-words-you-can-type/) - Easy
 - #2729 [Check if The Number is Fascinating](Easy/2729-check-if-the-number-is-fascinating/) - Easy
@@ -196,7 +198,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3536 [Maximum Product of Two Digits](Easy/3536-maximum-product-of-two-digits/) - Easy
 - #3731 [Find Missing Elements](Easy/3731-find-missing-elements/) - Easy
 
-## Stack (17)
+## Stack (18)
 
 - #20 [Valid Parentheses](Easy/0020-valid-parentheses/) - Easy
 - #94 [Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/) - Easy
@@ -204,6 +206,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #145 [Binary Tree Postorder Traversal](Easy/0145-binary-tree-postorder-traversal/) - Easy
 - #150 [Evaluate Reverse Polish Notation](Medium/0150-evaluate-reverse-polish-notation/) - Medium
 - #224 [Basic Calculator](Hard/0224-basic-calculator/) - Hard
+- #496 [Next Greater Element I](Easy/0496-next-greater-element-i/) - Easy
 - #682 [Baseball Game](Easy/0682-baseball-game/) - Easy
 - #739 [Daily Temperatures](Medium/0739-daily-temperatures/) - Medium
 - #921 [Minimum Add to Make Parentheses Valid](Medium/0921-minimum-add-to-make-parentheses-valid/) - Medium
@@ -381,6 +384,13 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #1021 [Remove Outermost Parentheses](Easy/1021-remove-outermost-parentheses/) - Easy
 - #1614 [Maximum Nesting Depth of the Parentheses](Easy/1614-maximum-nesting-depth-of-the-parentheses/) - Easy
 
+## Monotonic Stack (4)
+
+- #496 [Next Greater Element I](Easy/0496-next-greater-element-i/) - Easy
+- #739 [Daily Temperatures](Medium/0739-daily-temperatures/) - Medium
+- #1081 [Smallest Subsequence of Distinct Characters](Medium/1081-smallest-subsequence-of-distinct-characters/) - Medium
+- #1475 [Final Prices With a Special Discount in a Shop](Easy/1475-final-prices-with-a-special-discount-in-a-shop/) - Easy
+
 ## Number Theory (4)
 
 - #258 [Add Digits](Easy/0258-add-digits/) - Easy
@@ -419,12 +429,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #215 [Kth Largest Element in an Array](Medium/0215-kth-largest-element-in-an-array/) - Medium
 - #378 [Kth Smallest Element in a Sorted Matrix](Medium/0378-kth-smallest-element-in-a-sorted-matrix/) - Medium
 - #1464 [Maximum Product of Two Elements in an Array](Easy/1464-maximum-product-of-two-elements-in-an-array/) - Easy
-
-## Monotonic Stack (3)
-
-- #739 [Daily Temperatures](Medium/0739-daily-temperatures/) - Medium
-- #1081 [Smallest Subsequence of Distinct Characters](Medium/1081-smallest-subsequence-of-distinct-characters/) - Medium
-- #1475 [Final Prices With a Special Discount in a Shop](Easy/1475-final-prices-with-a-special-discount-in-a-shop/) - Easy
 
 ## Brainteaser (2)
 
