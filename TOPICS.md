@@ -2,7 +2,7 @@
 
 Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 
-## Array (58)
+## Array (59)
 
 - #1 [Two Sum](Easy/0001-two-sum/) - Easy
 - #27 [Remove Element](Easy/0027-remove-element/) - Easy
@@ -38,6 +38,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #877 [Stone Game](Medium/0877-stone-game/) - Medium
 - #896 [Monotonic Array](Easy/0896-monotonic-array/) - Easy
 - #905 [Sort Array By Parity](Easy/0905-sort-array-by-parity/) - Easy
+- #946 [Validate Stack Sequences](Medium/0946-validate-stack-sequences/) - Medium
 - #1051 [Height Checker](Easy/1051-height-checker/) - Easy
 - #1260 [Shift 2D Grid](Easy/1260-shift-2d-grid/) - Easy
 - #1406 [Stone Game III](Hard/1406-stone-game-iii/) - Hard
@@ -194,7 +195,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3536 [Maximum Product of Two Digits](Easy/3536-maximum-product-of-two-digits/) - Easy
 - #3731 [Find Missing Elements](Easy/3731-find-missing-elements/) - Easy
 
-## Stack (15)
+## Stack (16)
 
 - #20 [Valid Parentheses](Easy/0020-valid-parentheses/) - Easy
 - #94 [Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/) - Easy
@@ -205,6 +206,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #682 [Baseball Game](Easy/0682-baseball-game/) - Easy
 - #739 [Daily Temperatures](Medium/0739-daily-temperatures/) - Medium
 - #921 [Minimum Add to Make Parentheses Valid](Medium/0921-minimum-add-to-make-parentheses-valid/) - Medium
+- #946 [Validate Stack Sequences](Medium/0946-validate-stack-sequences/) - Medium
 - #1047 [Remove All Adjacent Duplicates In String](Easy/1047-remove-all-adjacent-duplicates-in-string/) - Easy
 - #1081 [Smallest Subsequence of Distinct Characters](Medium/1081-smallest-subsequence-of-distinct-characters/) - Medium
 - #1441 [Build an Array With Stack Operations](Medium/1441-build-an-array-with-stack-operations/) - Medium
@@ -257,13 +259,14 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #1025 [Divisor Game](Easy/1025-divisor-game/) - Easy
 - #1406 [Stone Game III](Hard/1406-stone-game-iii/) - Hard
 
-## Simulation (10)
+## Simulation (11)
 
 - #258 [Add Digits](Easy/0258-add-digits/) - Easy
 - #412 [Fizz Buzz](Easy/0412-fizz-buzz/) - Easy
 - #415 [Add Strings](Easy/0415-add-strings/) - Easy
 - #682 [Baseball Game](Easy/0682-baseball-game/) - Easy
 - #867 [Transpose Matrix](Easy/0867-transpose-matrix/) - Easy
+- #946 [Validate Stack Sequences](Medium/0946-validate-stack-sequences/) - Medium
 - #1260 [Shift 2D Grid](Easy/1260-shift-2d-grid/) - Easy
 - #1441 [Build an Array With Stack Operations](Medium/1441-build-an-array-with-stack-operations/) - Medium
 - #1929 [Concatenation of Array](Easy/1929-concatenation-of-array/) - Easy
