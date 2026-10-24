@@ -6,26 +6,26 @@
 
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
-| Easy | 77 | 77 |
+| Easy | 78 | 78 |
 | Medium | 43 | 43 |
 | Hard | 3 | 3 |
-| **Total** | **123** | **123** |
+| **Total** | **124** | **124** |
 
-123 problem(s), 123 solution file(s) in this repository.
+124 problem(s), 124 solution file(s) in this repository.
 Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-10-24).
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python | 117 |
+| Python | 118 |
 | Python3 | 6 |
 
 Browse by topic: [TOPICS.md](TOPICS.md)
 
 ## Solutions
 
-<details><summary><b>Easy</b> (77)</summary>
+<details><summary><b>Easy</b> (78)</summary>
 
 | # | Problem | Language(s) | Link |
 |---|---------|-------------|------|
@@ -73,6 +73,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Python | [folder](Easy/0876-middle-of-the-linked-list/) |
 | 896 | [Monotonic Array](https://leetcode.com/problems/monotonic-array/) | Python | [folder](Easy/0896-monotonic-array/) |
 | 905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | Python | [folder](Easy/0905-sort-array-by-parity/) |
+| 1021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | Python | [folder](Easy/1021-remove-outermost-parentheses/) |
 | 1025 | [Divisor Game](https://leetcode.com/problems/divisor-game/) | Python | [folder](Easy/1025-divisor-game/) |
 | 1047 | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | Python | [folder](Easy/1047-remove-all-adjacent-duplicates-in-string/) |
 | 1051 | [Height Checker](https://leetcode.com/problems/height-checker/) | Python | [folder](Easy/1051-height-checker/) |
