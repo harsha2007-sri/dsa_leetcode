@@ -6,26 +6,26 @@
 
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
-| Easy | 78 | 78 |
+| Easy | 79 | 79 |
 | Medium | 43 | 43 |
 | Hard | 3 | 3 |
-| **Total** | **124** | **124** |
+| **Total** | **125** | **125** |
 
-124 problem(s), 124 solution file(s) in this repository.
+125 problem(s), 125 solution file(s) in this repository.
 Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-10-24).
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python | 118 |
+| Python | 119 |
 | Python3 | 6 |
 
 Browse by topic: [TOPICS.md](TOPICS.md)
 
 ## Solutions
 
-<details><summary><b>Easy</b> (78)</summary>
+<details><summary><b>Easy</b> (79)</summary>
 
 | # | Problem | Language(s) | Link |
 |---|---------|-------------|------|
@@ -62,6 +62,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 405 | [Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) | Python | [folder](Easy/0405-convert-a-number-to-hexadecimal/) |
 | 412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) | Python | [folder](Easy/0412-fizz-buzz/) |
 | 415 | [Add Strings](https://leetcode.com/problems/add-strings/) | Python | [folder](Easy/0415-add-strings/) |
+| 496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i/) | Python | [folder](Easy/0496-next-greater-element-i/) |
 | 504 | [Base 7](https://leetcode.com/problems/base-7/) | Python | [folder](Easy/0504-base-7/) |
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | Python | [folder](Easy/0509-fibonacci-number/) |
 | 628 | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | Python | [folder](Easy/0628-maximum-product-of-three-numbers/) |
