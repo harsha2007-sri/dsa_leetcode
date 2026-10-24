@@ -105,7 +105,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3754 [Concatenate Non-Zero Digits and Multiply by Sum I](Easy/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) - Easy
 - #3756 [Concatenate Non-Zero Digits and Multiply by Sum II](Medium/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) - Medium
 
-## String (37)
+## String (38)
 
 - #3 [Longest Substring Without Repeating Characters](Medium/0003-longest-substring-without-repeating-characters/) - Medium
 - #5 [Longest Palindromic Substring](Medium/0005-longest-palindromic-substring/) - Medium
@@ -128,6 +128,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #415 [Add Strings](Easy/0415-add-strings/) - Easy
 - #504 [Base 7](Easy/0504-base-7/) - Easy
 - #796 [Rotate String](Easy/0796-rotate-string/) - Easy
+- #921 [Minimum Add to Make Parentheses Valid](Medium/0921-minimum-add-to-make-parentheses-valid/) - Medium
 - #1047 [Remove All Adjacent Duplicates In String](Easy/1047-remove-all-adjacent-duplicates-in-string/) - Easy
 - #1081 [Smallest Subsequence of Distinct Characters](Medium/1081-smallest-subsequence-of-distinct-characters/) - Medium
 - #1358 [Number of Substrings Containing All Three Characters](Medium/1358-number-of-substrings-containing-all-three-characters/) - Medium
@@ -192,7 +193,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3536 [Maximum Product of Two Digits](Easy/3536-maximum-product-of-two-digits/) - Easy
 - #3731 [Find Missing Elements](Easy/3731-find-missing-elements/) - Easy
 
-## Stack (13)
+## Stack (14)
 
 - #20 [Valid Parentheses](Easy/0020-valid-parentheses/) - Easy
 - #94 [Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/) - Easy
@@ -202,6 +203,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #224 [Basic Calculator](Hard/0224-basic-calculator/) - Hard
 - #682 [Baseball Game](Easy/0682-baseball-game/) - Easy
 - #739 [Daily Temperatures](Medium/0739-daily-temperatures/) - Medium
+- #921 [Minimum Add to Make Parentheses Valid](Medium/0921-minimum-add-to-make-parentheses-valid/) - Medium
 - #1047 [Remove All Adjacent Duplicates In String](Easy/1047-remove-all-adjacent-duplicates-in-string/) - Easy
 - #1081 [Smallest Subsequence of Distinct Characters](Medium/1081-smallest-subsequence-of-distinct-characters/) - Medium
 - #1441 [Build an Array With Stack Operations](Medium/1441-build-an-array-with-stack-operations/) - Medium
@@ -288,6 +290,16 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #486 [Predict the Winner](Medium/0486-predict-the-winner/) - Medium
 - #509 [Fibonacci Number](Easy/0509-fibonacci-number/) - Easy
 
+## Greedy (7)
+
+- #179 [Largest Number](Medium/0179-largest-number/) - Medium
+- #921 [Minimum Add to Make Parentheses Valid](Medium/0921-minimum-add-to-make-parentheses-valid/) - Medium
+- #1081 [Smallest Subsequence of Distinct Characters](Medium/1081-smallest-subsequence-of-distinct-characters/) - Medium
+- #1846 [Maximum Element After Decreasing and Rearranging](Medium/1846-maximum-element-after-decreasing-and-rearranging/) - Medium
+- #2029 [Stone Game IX](Medium/2029-stone-game-ix/) - Medium
+- #3014 [Minimum Number of Pushes to Type Word I](Easy/3014-minimum-number-of-pushes-to-type-word-i/) - Easy
+- #3016 [Minimum Number of Pushes to Type Word II](Medium/3016-minimum-number-of-pushes-to-type-word-ii/) - Medium
+
 ## Linked List (7)
 
 - #2 [Add Two Numbers](Medium/0002-add-two-numbers/) - Medium
@@ -306,15 +318,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #1025 [Divisor Game](Easy/1025-divisor-game/) - Easy
 - #1406 [Stone Game III](Hard/1406-stone-game-iii/) - Hard
 - #2029 [Stone Game IX](Medium/2029-stone-game-ix/) - Medium
-
-## Greedy (6)
-
-- #179 [Largest Number](Medium/0179-largest-number/) - Medium
-- #1081 [Smallest Subsequence of Distinct Characters](Medium/1081-smallest-subsequence-of-distinct-characters/) - Medium
-- #1846 [Maximum Element After Decreasing and Rearranging](Medium/1846-maximum-element-after-decreasing-and-rearranging/) - Medium
-- #2029 [Stone Game IX](Medium/2029-stone-game-ix/) - Medium
-- #3014 [Minimum Number of Pushes to Type Word I](Easy/3014-minimum-number-of-pushes-to-type-word-i/) - Easy
-- #3016 [Minimum Number of Pushes to Type Word II](Medium/3016-minimum-number-of-pushes-to-type-word-ii/) - Medium
 
 ## Binary Tree (5)
 
@@ -385,6 +388,12 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #1406 [Stone Game III](Hard/1406-stone-game-iii/) - Hard
 - #2029 [Stone Game IX](Medium/2029-stone-game-ix/) - Medium
 
+## Bracket Sequences (3)
+
+- #20 [Valid Parentheses](Easy/0020-valid-parentheses/) - Easy
+- #921 [Minimum Add to Make Parentheses Valid](Medium/0921-minimum-add-to-make-parentheses-valid/) - Medium
+- #1614 [Maximum Nesting Depth of the Parentheses](Easy/1614-maximum-nesting-depth-of-the-parentheses/) - Easy
+
 ## Counting (3)
 
 - #2029 [Stone Game IX](Medium/2029-stone-game-ix/) - Medium
@@ -402,11 +411,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #215 [Kth Largest Element in an Array](Medium/0215-kth-largest-element-in-an-array/) - Medium
 - #378 [Kth Smallest Element in a Sorted Matrix](Medium/0378-kth-smallest-element-in-a-sorted-matrix/) - Medium
 - #1464 [Maximum Product of Two Elements in an Array](Easy/1464-maximum-product-of-two-elements-in-an-array/) - Easy
-
-## Bracket Sequences (2)
-
-- #20 [Valid Parentheses](Easy/0020-valid-parentheses/) - Easy
-- #1614 [Maximum Nesting Depth of the Parentheses](Easy/1614-maximum-nesting-depth-of-the-parentheses/) - Easy
 
 ## Brainteaser (2)
 
