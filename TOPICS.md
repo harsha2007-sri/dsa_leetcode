@@ -2,7 +2,7 @@
 
 Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 
-## Array (56)
+## Array (57)
 
 - #1 [Two Sum](Easy/0001-two-sum/) - Easy
 - #27 [Remove Element](Easy/0027-remove-element/) - Easy
@@ -41,6 +41,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #1051 [Height Checker](Easy/1051-height-checker/) - Easy
 - #1260 [Shift 2D Grid](Easy/1260-shift-2d-grid/) - Easy
 - #1406 [Stone Game III](Hard/1406-stone-game-iii/) - Hard
+- #1441 [Build an Array With Stack Operations](Medium/1441-build-an-array-with-stack-operations/) - Medium
 - #1464 [Maximum Product of Two Elements in an Array](Easy/1464-maximum-product-of-two-elements-in-an-array/) - Easy
 - #1470 [Shuffle the Array](Easy/1470-shuffle-the-array/) - Easy
 - #1480 [Running Sum of 1d Array](Easy/1480-running-sum-of-1d-array/) - Easy
@@ -191,6 +192,22 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3536 [Maximum Product of Two Digits](Easy/3536-maximum-product-of-two-digits/) - Easy
 - #3731 [Find Missing Elements](Easy/3731-find-missing-elements/) - Easy
 
+## Stack (13)
+
+- #20 [Valid Parentheses](Easy/0020-valid-parentheses/) - Easy
+- #94 [Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/) - Easy
+- #144 [Binary Tree Preorder Traversal](Easy/0144-binary-tree-preorder-traversal/) - Easy
+- #145 [Binary Tree Postorder Traversal](Easy/0145-binary-tree-postorder-traversal/) - Easy
+- #150 [Evaluate Reverse Polish Notation](Medium/0150-evaluate-reverse-polish-notation/) - Medium
+- #224 [Basic Calculator](Hard/0224-basic-calculator/) - Hard
+- #682 [Baseball Game](Easy/0682-baseball-game/) - Easy
+- #739 [Daily Temperatures](Medium/0739-daily-temperatures/) - Medium
+- #1047 [Remove All Adjacent Duplicates In String](Easy/1047-remove-all-adjacent-duplicates-in-string/) - Easy
+- #1081 [Smallest Subsequence of Distinct Characters](Medium/1081-smallest-subsequence-of-distinct-characters/) - Medium
+- #1441 [Build an Array With Stack Operations](Medium/1441-build-an-array-with-stack-operations/) - Medium
+- #1544 [Make The String Great](Easy/1544-make-the-string-great/) - Easy
+- #1614 [Maximum Nesting Depth of the Parentheses](Easy/1614-maximum-nesting-depth-of-the-parentheses/) - Easy
+
 ## Two Pointers (13)
 
 - #5 [Longest Palindromic Substring](Medium/0005-longest-palindromic-substring/) - Medium
@@ -222,21 +239,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3312 [Sorted GCD Pair Queries](Hard/3312-sorted-gcd-pair-queries/) - Hard
 - #3532 [Path Existence Queries in a Graph I](Medium/3532-path-existence-queries-in-a-graph-i/) - Medium
 
-## Stack (12)
-
-- #20 [Valid Parentheses](Easy/0020-valid-parentheses/) - Easy
-- #94 [Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/) - Easy
-- #144 [Binary Tree Preorder Traversal](Easy/0144-binary-tree-preorder-traversal/) - Easy
-- #145 [Binary Tree Postorder Traversal](Easy/0145-binary-tree-postorder-traversal/) - Easy
-- #150 [Evaluate Reverse Polish Notation](Medium/0150-evaluate-reverse-polish-notation/) - Medium
-- #224 [Basic Calculator](Hard/0224-basic-calculator/) - Hard
-- #682 [Baseball Game](Easy/0682-baseball-game/) - Easy
-- #739 [Daily Temperatures](Medium/0739-daily-temperatures/) - Medium
-- #1047 [Remove All Adjacent Duplicates In String](Easy/1047-remove-all-adjacent-duplicates-in-string/) - Easy
-- #1081 [Smallest Subsequence of Distinct Characters](Medium/1081-smallest-subsequence-of-distinct-characters/) - Medium
-- #1544 [Make The String Great](Easy/1544-make-the-string-great/) - Easy
-- #1614 [Maximum Nesting Depth of the Parentheses](Easy/1614-maximum-nesting-depth-of-the-parentheses/) - Easy
-
 ## Dynamic Programming (11)
 
 - #5 [Longest Palindromic Substring](Medium/0005-longest-palindromic-substring/) - Medium
@@ -251,7 +253,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #1025 [Divisor Game](Easy/1025-divisor-game/) - Easy
 - #1406 [Stone Game III](Hard/1406-stone-game-iii/) - Hard
 
-## Simulation (9)
+## Simulation (10)
 
 - #258 [Add Digits](Easy/0258-add-digits/) - Easy
 - #412 [Fizz Buzz](Easy/0412-fizz-buzz/) - Easy
@@ -259,6 +261,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #682 [Baseball Game](Easy/0682-baseball-game/) - Easy
 - #867 [Transpose Matrix](Easy/0867-transpose-matrix/) - Easy
 - #1260 [Shift 2D Grid](Easy/1260-shift-2d-grid/) - Easy
+- #1441 [Build an Array With Stack Operations](Medium/1441-build-an-array-with-stack-operations/) - Medium
 - #1929 [Concatenation of Array](Easy/1929-concatenation-of-array/) - Easy
 - #3069 [Distribute Elements Into Two Arrays I](Easy/3069-distribute-elements-into-two-arrays-i/) - Easy
 - #3838 [Weighted Word Mapping](Easy/3838-weighted-word-mapping/) - Easy
