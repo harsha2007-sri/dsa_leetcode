@@ -7,18 +7,18 @@
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
 | Easy | 77 | 77 |
-| Medium | 42 | 42 |
+| Medium | 43 | 43 |
 | Hard | 3 | 3 |
-| **Total** | **122** | **122** |
+| **Total** | **123** | **123** |
 
-122 problem(s), 122 solution file(s) in this repository.
+123 problem(s), 123 solution file(s) in this repository.
 Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-10-24).
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python | 116 |
+| Python | 117 |
 | Python3 | 6 |
 
 Browse by topic: [TOPICS.md](TOPICS.md)
@@ -109,7 +109,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 
 </details>
 
-<details><summary><b>Medium</b> (42)</summary>
+<details><summary><b>Medium</b> (43)</summary>
 
 | # | Problem | Language(s) | Link |
 |---|---------|-------------|------|
@@ -141,6 +141,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | Python | [folder](Medium/0739-daily-temperatures/) |
 | 877 | [Stone Game](https://leetcode.com/problems/stone-game/) | Python | [folder](Medium/0877-stone-game/) |
 | 921 | [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | Python | [folder](Medium/0921-minimum-add-to-make-parentheses-valid/) |
+| 946 | [Validate Stack Sequences](https://leetcode.com/problems/validate-stack-sequences/) | Python | [folder](Medium/0946-validate-stack-sequences/) |
 | 1081 | [Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/) | Python | [folder](Medium/1081-smallest-subsequence-of-distinct-characters/) |
 | 1291 | [Sequential Digits](https://leetcode.com/problems/sequential-digits/) | Python | [folder](Medium/1291-sequential-digits/) |
 | 1358 | [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | Python | [folder](Medium/1358-number-of-substrings-containing-all-three-characters/) |
