@@ -7,18 +7,18 @@
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
 | Easy | 76 | 76 |
-| Medium | 41 | 41 |
+| Medium | 42 | 42 |
 | Hard | 3 | 3 |
-| **Total** | **120** | **120** |
+| **Total** | **121** | **121** |
 
-120 problem(s), 120 solution file(s) in this repository.
+121 problem(s), 121 solution file(s) in this repository.
 Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-10-24).
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python | 114 |
+| Python | 115 |
 | Python3 | 6 |
 
 Browse by topic: [TOPICS.md](TOPICS.md)
@@ -108,7 +108,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 
 </details>
 
-<details><summary><b>Medium</b> (41)</summary>
+<details><summary><b>Medium</b> (42)</summary>
 
 | # | Problem | Language(s) | Link |
 |---|---------|-------------|------|
@@ -139,6 +139,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 707 | [Design Linked List](https://leetcode.com/problems/design-linked-list/) | Python | [folder](Medium/0707-design-linked-list/) |
 | 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | Python | [folder](Medium/0739-daily-temperatures/) |
 | 877 | [Stone Game](https://leetcode.com/problems/stone-game/) | Python | [folder](Medium/0877-stone-game/) |
+| 921 | [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | Python | [folder](Medium/0921-minimum-add-to-make-parentheses-valid/) |
 | 1081 | [Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/) | Python | [folder](Medium/1081-smallest-subsequence-of-distinct-characters/) |
 | 1291 | [Sequential Digits](https://leetcode.com/problems/sequential-digits/) | Python | [folder](Medium/1291-sequential-digits/) |
 | 1358 | [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | Python | [folder](Medium/1358-number-of-substrings-containing-all-three-characters/) |
