@@ -7,18 +7,18 @@
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
 | Easy | 76 | 76 |
-| Medium | 40 | 40 |
+| Medium | 41 | 41 |
 | Hard | 3 | 3 |
-| **Total** | **119** | **119** |
+| **Total** | **120** | **120** |
 
-119 problem(s), 119 solution file(s) in this repository.
-Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-10-23).
+120 problem(s), 120 solution file(s) in this repository.
+Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-10-24).
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python | 113 |
+| Python | 114 |
 | Python3 | 6 |
 
 Browse by topic: [TOPICS.md](TOPICS.md)
@@ -108,7 +108,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 
 </details>
 
-### Medium (40)
+<details><summary><b>Medium</b> (41)</summary>
 
 | # | Problem | Language(s) | Link |
 |---|---------|-------------|------|
@@ -142,6 +142,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 1081 | [Smallest Subsequence of Distinct Characters](https://leetcode.com/problems/smallest-subsequence-of-distinct-characters/) | Python | [folder](Medium/1081-smallest-subsequence-of-distinct-characters/) |
 | 1291 | [Sequential Digits](https://leetcode.com/problems/sequential-digits/) | Python | [folder](Medium/1291-sequential-digits/) |
 | 1358 | [Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/) | Python | [folder](Medium/1358-number-of-substrings-containing-all-three-characters/) |
+| 1441 | [Build an Array With Stack Operations](https://leetcode.com/problems/build-an-array-with-stack-operations/) | Python | [folder](Medium/1441-build-an-array-with-stack-operations/) |
 | 1846 | [Maximum Element After Decreasing and Rearranging](https://leetcode.com/problems/maximum-element-after-decreasing-and-rearranging/) | Python | [folder](Medium/1846-maximum-element-after-decreasing-and-rearranging/) |
 | 2029 | [Stone Game IX](https://leetcode.com/problems/stone-game-ix/) | Python | [folder](Medium/2029-stone-game-ix/) |
 | 2095 | [Delete the Middle Node of a Linked List](https://leetcode.com/problems/delete-the-middle-node-of-a-linked-list/) | Python | [folder](Medium/2095-delete-the-middle-node-of-a-linked-list/) |
@@ -152,6 +153,8 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 3532 | [Path Existence Queries in a Graph I](https://leetcode.com/problems/path-existence-queries-in-a-graph-i/) | Python | [folder](Medium/3532-path-existence-queries-in-a-graph-i/) |
 | 3702 | [Longest Subsequence With Non-Zero Bitwise XOR](https://leetcode.com/problems/longest-subsequence-with-non-zero-bitwise-xor/) | Python | [folder](Medium/3702-longest-subsequence-with-non-zero-bitwise-xor/) |
 | 3756 | [Concatenate Non-Zero Digits and Multiply by Sum II](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-ii/) | Python | [folder](Medium/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii/) |
+
+</details>
 
 ### Hard (3)
 
