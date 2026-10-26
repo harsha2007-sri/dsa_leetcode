@@ -2,7 +2,7 @@
 
 Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 
-## Array (60)
+## Array (61)
 
 - #1 [Two Sum](Easy/0001-two-sum/) - Easy
 - #27 [Remove Element](Easy/0027-remove-element/) - Easy
@@ -16,6 +16,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #57 [Insert Interval](Medium/0057-insert-interval/) - Medium
 - #66 [Plus One](Easy/0066-plus-one/) - Easy
 - #75 [Sort Colors](Medium/0075-sort-colors/) - Medium
+- #88 [Merge Sorted Array](Easy/0088-merge-sorted-array/) - Easy
 - #121 [Best Time to Buy and Sell Stock](Easy/0121-best-time-to-buy-and-sell-stock/) - Easy
 - #136 [Single Number](Easy/0136-single-number/) - Easy
 - #150 [Evaluate Reverse Polish Notation](Medium/0150-evaluate-reverse-polish-notation/) - Medium
@@ -175,10 +176,11 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3718 [Smallest Missing Multiple of K](Easy/3718-smallest-missing-multiple-of-k/) - Easy
 - #3731 [Find Missing Elements](Easy/3731-find-missing-elements/) - Easy
 
-## Sorting (20)
+## Sorting (21)
 
 - #49 [Group Anagrams](Medium/0049-group-anagrams/) - Medium
 - #75 [Sort Colors](Medium/0075-sort-colors/) - Medium
+- #88 [Merge Sorted Array](Easy/0088-merge-sorted-array/) - Easy
 - #164 [Maximum Gap](Medium/0164-maximum-gap/) - Medium
 - #179 [Largest Number](Medium/0179-largest-number/) - Medium
 - #215 [Kth Largest Element in an Array](Medium/0215-kth-largest-element-in-an-array/) - Medium
@@ -219,12 +221,13 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #1544 [Make The String Great](Easy/1544-make-the-string-great/) - Easy
 - #1614 [Maximum Nesting Depth of the Parentheses](Easy/1614-maximum-nesting-depth-of-the-parentheses/) - Easy
 
-## Two Pointers (13)
+## Two Pointers (14)
 
 - #5 [Longest Palindromic Substring](Medium/0005-longest-palindromic-substring/) - Medium
 - #27 [Remove Element](Easy/0027-remove-element/) - Easy
 - #28 [Find the Index of the First Occurrence in a String](Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) - Easy
 - #75 [Sort Colors](Medium/0075-sort-colors/) - Medium
+- #88 [Merge Sorted Array](Easy/0088-merge-sorted-array/) - Easy
 - #125 [Valid Palindrome](Easy/0125-valid-palindrome/) - Easy
 - #141 [Linked List Cycle](Easy/0141-linked-list-cycle/) - Easy
 - #283 [Move Zeroes](Easy/0283-move-zeroes/) - Easy
