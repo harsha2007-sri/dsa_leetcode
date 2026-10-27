@@ -6,26 +6,26 @@
 
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
-| Easy | 80 | 80 |
+| Easy | 81 | 81 |
 | Medium | 43 | 43 |
 | Hard | 3 | 3 |
-| **Total** | **126** | **126** |
+| **Total** | **127** | **127** |
 
-126 problem(s), 126 solution file(s) in this repository.
-Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-10-26).
+127 problem(s), 127 solution file(s) in this repository.
+Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-10-27).
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python | 120 |
+| Python | 121 |
 | Python3 | 6 |
 
 Browse by topic: [TOPICS.md](TOPICS.md)
 
 ## Solutions
 
-<details><summary><b>Easy</b> (80)</summary>
+<details><summary><b>Easy</b> (81)</summary>
 
 | # | Problem | Language(s) | Link |
 |---|---------|-------------|------|
@@ -109,6 +109,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 3754 | [Concatenate Non-Zero Digits and Multiply by Sum I](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-i/) | Python | [folder](Easy/3754-concatenate-non-zero-digits-and-multiply-by-sum-i/) |
 | 3838 | [Weighted Word Mapping](https://leetcode.com/problems/weighted-word-mapping/) | Python | [folder](Easy/3838-weighted-word-mapping/) |
 | 3856 | [Trim Trailing Vowels](https://leetcode.com/problems/trim-trailing-vowels/) | Python | [folder](Easy/3856-trim-trailing-vowels/) |
+| 3963 | [Create Grid With Exactly One Path](https://leetcode.com/problems/create-grid-with-exactly-one-path/) | Python | [folder](Easy/3963-create-grid-with-exactly-one-path/) |
 
 </details>
 
