@@ -303,6 +303,26 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #486 [Predict the Winner](Medium/0486-predict-the-winner/) - Medium
 - #509 [Fibonacci Number](Easy/0509-fibonacci-number/) - Easy
 
+## Binary Tree (7)
+
+- #94 [Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/) - Easy
+- #100 [Same Tree](Easy/0100-same-tree/) - Easy
+- #101 [Symmetric Tree](Easy/0101-symmetric-tree/) - Easy
+- #110 [Balanced Binary Tree](Easy/0110-balanced-binary-tree/) - Easy
+- #144 [Binary Tree Preorder Traversal](Easy/0144-binary-tree-preorder-traversal/) - Easy
+- #145 [Binary Tree Postorder Traversal](Easy/0145-binary-tree-postorder-traversal/) - Easy
+- #257 [Binary Tree Paths](Easy/0257-binary-tree-paths/) - Easy
+
+## Depth-First Search (7)
+
+- #94 [Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/) - Easy
+- #100 [Same Tree](Easy/0100-same-tree/) - Easy
+- #101 [Symmetric Tree](Easy/0101-symmetric-tree/) - Easy
+- #110 [Balanced Binary Tree](Easy/0110-balanced-binary-tree/) - Easy
+- #144 [Binary Tree Preorder Traversal](Easy/0144-binary-tree-preorder-traversal/) - Easy
+- #145 [Binary Tree Postorder Traversal](Easy/0145-binary-tree-postorder-traversal/) - Easy
+- #257 [Binary Tree Paths](Easy/0257-binary-tree-paths/) - Easy
+
 ## Greedy (7)
 
 - #179 [Largest Number](Medium/0179-largest-number/) - Medium
@@ -323,19 +343,11 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #876 [Middle of the Linked List](Easy/0876-middle-of-the-linked-list/) - Easy
 - #2095 [Delete the Middle Node of a Linked List](Medium/2095-delete-the-middle-node-of-a-linked-list/) - Medium
 
-## Binary Tree (6)
+## Tree (7)
 
 - #94 [Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/) - Easy
 - #100 [Same Tree](Easy/0100-same-tree/) - Easy
-- #110 [Balanced Binary Tree](Easy/0110-balanced-binary-tree/) - Easy
-- #144 [Binary Tree Preorder Traversal](Easy/0144-binary-tree-preorder-traversal/) - Easy
-- #145 [Binary Tree Postorder Traversal](Easy/0145-binary-tree-postorder-traversal/) - Easy
-- #257 [Binary Tree Paths](Easy/0257-binary-tree-paths/) - Easy
-
-## Depth-First Search (6)
-
-- #94 [Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/) - Easy
-- #100 [Same Tree](Easy/0100-same-tree/) - Easy
+- #101 [Symmetric Tree](Easy/0101-symmetric-tree/) - Easy
 - #110 [Balanced Binary Tree](Easy/0110-balanced-binary-tree/) - Easy
 - #144 [Binary Tree Preorder Traversal](Easy/0144-binary-tree-preorder-traversal/) - Easy
 - #145 [Binary Tree Postorder Traversal](Easy/0145-binary-tree-postorder-traversal/) - Easy
@@ -349,15 +361,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #1025 [Divisor Game](Easy/1025-divisor-game/) - Easy
 - #1406 [Stone Game III](Hard/1406-stone-game-iii/) - Hard
 - #2029 [Stone Game IX](Medium/2029-stone-game-ix/) - Medium
-
-## Tree (6)
-
-- #94 [Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/) - Easy
-- #100 [Same Tree](Easy/0100-same-tree/) - Easy
-- #110 [Balanced Binary Tree](Easy/0110-balanced-binary-tree/) - Easy
-- #144 [Binary Tree Preorder Traversal](Easy/0144-binary-tree-preorder-traversal/) - Easy
-- #145 [Binary Tree Postorder Traversal](Easy/0145-binary-tree-postorder-traversal/) - Easy
-- #257 [Binary Tree Paths](Easy/0257-binary-tree-paths/) - Easy
 
 ## Matrix (5)
 
@@ -441,6 +444,11 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #292 [Nim Game](Easy/0292-nim-game/) - Easy
 - #1025 [Divisor Game](Easy/1025-divisor-game/) - Easy
 
+## Breadth-First Search (2)
+
+- #100 [Same Tree](Easy/0100-same-tree/) - Easy
+- #101 [Symmetric Tree](Easy/0101-symmetric-tree/) - Easy
+
 ## Bubble Sort (2)
 
 - #75 [Sort Colors](Medium/0075-sort-colors/) - Medium
@@ -503,10 +511,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 ## Boyer–Moore String-Search Algorithm (1)
 
 - #28 [Find the Index of the First Occurrence in a String](Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) - Easy
-
-## Breadth-First Search (1)
-
-- #100 [Same Tree](Easy/0100-same-tree/) - Easy
 
 ## Bucket Sort (1)
 
