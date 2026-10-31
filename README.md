@@ -6,26 +6,26 @@
 
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
-| Easy | 82 | 82 |
+| Easy | 83 | 83 |
 | Medium | 43 | 43 |
 | Hard | 3 | 3 |
-| **Total** | **128** | **128** |
+| **Total** | **129** | **129** |
 
-128 problem(s), 128 solution file(s) in this repository.
+129 problem(s), 129 solution file(s) in this repository.
 Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-10-31).
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python | 122 |
+| Python | 123 |
 | Python3 | 6 |
 
 Browse by topic: [TOPICS.md](TOPICS.md)
 
 ## Solutions
 
-<details><summary><b>Easy</b> (82)</summary>
+<details><summary><b>Easy</b> (83)</summary>
 
 | # | Problem | Language(s) | Link |
 |---|---------|-------------|------|
@@ -43,6 +43,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Python | [folder](Easy/0088-merge-sorted-array/) |
 | 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) | Python | [folder](Easy/0094-binary-tree-inorder-traversal/) |
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | Python | [folder](Easy/0100-same-tree/) |
+| 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | Python | [folder](Easy/0101-symmetric-tree/) |
 | 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | Python | [folder](Easy/0110-balanced-binary-tree/) |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Python | [folder](Easy/0121-best-time-to-buy-and-sell-stock/) |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Python | [folder](Easy/0125-valid-palindrome/) |
