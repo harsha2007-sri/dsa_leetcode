@@ -323,6 +323,24 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #876 [Middle of the Linked List](Easy/0876-middle-of-the-linked-list/) - Easy
 - #2095 [Delete the Middle Node of a Linked List](Medium/2095-delete-the-middle-node-of-a-linked-list/) - Medium
 
+## Binary Tree (6)
+
+- #94 [Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/) - Easy
+- #100 [Same Tree](Easy/0100-same-tree/) - Easy
+- #110 [Balanced Binary Tree](Easy/0110-balanced-binary-tree/) - Easy
+- #144 [Binary Tree Preorder Traversal](Easy/0144-binary-tree-preorder-traversal/) - Easy
+- #145 [Binary Tree Postorder Traversal](Easy/0145-binary-tree-postorder-traversal/) - Easy
+- #257 [Binary Tree Paths](Easy/0257-binary-tree-paths/) - Easy
+
+## Depth-First Search (6)
+
+- #94 [Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/) - Easy
+- #100 [Same Tree](Easy/0100-same-tree/) - Easy
+- #110 [Balanced Binary Tree](Easy/0110-balanced-binary-tree/) - Easy
+- #144 [Binary Tree Preorder Traversal](Easy/0144-binary-tree-preorder-traversal/) - Easy
+- #145 [Binary Tree Postorder Traversal](Easy/0145-binary-tree-postorder-traversal/) - Easy
+- #257 [Binary Tree Paths](Easy/0257-binary-tree-paths/) - Easy
+
 ## Game Theory (6)
 
 - #292 [Nim Game](Easy/0292-nim-game/) - Easy
@@ -332,17 +350,10 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #1406 [Stone Game III](Hard/1406-stone-game-iii/) - Hard
 - #2029 [Stone Game IX](Medium/2029-stone-game-ix/) - Medium
 
-## Binary Tree (5)
+## Tree (6)
 
 - #94 [Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/) - Easy
-- #110 [Balanced Binary Tree](Easy/0110-balanced-binary-tree/) - Easy
-- #144 [Binary Tree Preorder Traversal](Easy/0144-binary-tree-preorder-traversal/) - Easy
-- #145 [Binary Tree Postorder Traversal](Easy/0145-binary-tree-postorder-traversal/) - Easy
-- #257 [Binary Tree Paths](Easy/0257-binary-tree-paths/) - Easy
-
-## Depth-First Search (5)
-
-- #94 [Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/) - Easy
+- #100 [Same Tree](Easy/0100-same-tree/) - Easy
 - #110 [Balanced Binary Tree](Easy/0110-balanced-binary-tree/) - Easy
 - #144 [Binary Tree Preorder Traversal](Easy/0144-binary-tree-preorder-traversal/) - Easy
 - #145 [Binary Tree Postorder Traversal](Easy/0145-binary-tree-postorder-traversal/) - Easy
@@ -371,14 +382,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #643 [Maximum Average Subarray I](Easy/0643-maximum-average-subarray-i/) - Easy
 - #1358 [Number of Substrings Containing All Three Characters](Medium/1358-number-of-substrings-containing-all-three-characters/) - Medium
 - #3090 [Maximum Length Substring With Two Occurrences](Easy/3090-maximum-length-substring-with-two-occurrences/) - Easy
-
-## Tree (5)
-
-- #94 [Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/) - Easy
-- #110 [Balanced Binary Tree](Easy/0110-balanced-binary-tree/) - Easy
-- #144 [Binary Tree Preorder Traversal](Easy/0144-binary-tree-preorder-traversal/) - Easy
-- #145 [Binary Tree Postorder Traversal](Easy/0145-binary-tree-postorder-traversal/) - Easy
-- #257 [Binary Tree Paths](Easy/0257-binary-tree-paths/) - Easy
 
 ## Bracket Sequences (4)
 
@@ -500,6 +503,10 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 ## Boyer–Moore String-Search Algorithm (1)
 
 - #28 [Find the Index of the First Occurrence in a String](Easy/0028-find-the-index-of-the-first-occurrence-in-a-string/) - Easy
+
+## Breadth-First Search (1)
+
+- #100 [Same Tree](Easy/0100-same-tree/) - Easy
 
 ## Bucket Sort (1)
 
