@@ -281,6 +281,17 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3069 [Distribute Elements Into Two Arrays I](Easy/3069-distribute-elements-into-two-arrays-i/) - Easy
 - #3838 [Weighted Word Mapping](Easy/3838-weighted-word-mapping/) - Easy
 
+## Binary Tree (8)
+
+- #94 [Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/) - Easy
+- #100 [Same Tree](Easy/0100-same-tree/) - Easy
+- #101 [Symmetric Tree](Easy/0101-symmetric-tree/) - Easy
+- #102 [Binary Tree Level Order Traversal](Medium/0102-binary-tree-level-order-traversal/) - Medium
+- #110 [Balanced Binary Tree](Easy/0110-balanced-binary-tree/) - Easy
+- #144 [Binary Tree Preorder Traversal](Easy/0144-binary-tree-preorder-traversal/) - Easy
+- #145 [Binary Tree Postorder Traversal](Easy/0145-binary-tree-postorder-traversal/) - Easy
+- #257 [Binary Tree Paths](Easy/0257-binary-tree-paths/) - Easy
+
 ## Bit Manipulation (8)
 
 - #136 [Single Number](Easy/0136-single-number/) - Easy
@@ -303,11 +314,12 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #486 [Predict the Winner](Medium/0486-predict-the-winner/) - Medium
 - #509 [Fibonacci Number](Easy/0509-fibonacci-number/) - Easy
 
-## Binary Tree (7)
+## Tree (8)
 
 - #94 [Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/) - Easy
 - #100 [Same Tree](Easy/0100-same-tree/) - Easy
 - #101 [Symmetric Tree](Easy/0101-symmetric-tree/) - Easy
+- #102 [Binary Tree Level Order Traversal](Medium/0102-binary-tree-level-order-traversal/) - Medium
 - #110 [Balanced Binary Tree](Easy/0110-balanced-binary-tree/) - Easy
 - #144 [Binary Tree Preorder Traversal](Easy/0144-binary-tree-preorder-traversal/) - Easy
 - #145 [Binary Tree Postorder Traversal](Easy/0145-binary-tree-postorder-traversal/) - Easy
@@ -342,16 +354,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #707 [Design Linked List](Medium/0707-design-linked-list/) - Medium
 - #876 [Middle of the Linked List](Easy/0876-middle-of-the-linked-list/) - Easy
 - #2095 [Delete the Middle Node of a Linked List](Medium/2095-delete-the-middle-node-of-a-linked-list/) - Medium
-
-## Tree (7)
-
-- #94 [Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/) - Easy
-- #100 [Same Tree](Easy/0100-same-tree/) - Easy
-- #101 [Symmetric Tree](Easy/0101-symmetric-tree/) - Easy
-- #110 [Balanced Binary Tree](Easy/0110-balanced-binary-tree/) - Easy
-- #144 [Binary Tree Preorder Traversal](Easy/0144-binary-tree-preorder-traversal/) - Easy
-- #145 [Binary Tree Postorder Traversal](Easy/0145-binary-tree-postorder-traversal/) - Easy
-- #257 [Binary Tree Paths](Easy/0257-binary-tree-paths/) - Easy
 
 ## Game Theory (6)
 
@@ -421,6 +423,12 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #1406 [Stone Game III](Hard/1406-stone-game-iii/) - Hard
 - #2029 [Stone Game IX](Medium/2029-stone-game-ix/) - Medium
 
+## Breadth-First Search (3)
+
+- #100 [Same Tree](Easy/0100-same-tree/) - Easy
+- #101 [Symmetric Tree](Easy/0101-symmetric-tree/) - Easy
+- #102 [Binary Tree Level Order Traversal](Medium/0102-binary-tree-level-order-traversal/) - Medium
+
 ## Counting (3)
 
 - #2029 [Stone Game IX](Medium/2029-stone-game-ix/) - Medium
@@ -443,11 +451,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 
 - #292 [Nim Game](Easy/0292-nim-game/) - Easy
 - #1025 [Divisor Game](Easy/1025-divisor-game/) - Easy
-
-## Breadth-First Search (2)
-
-- #100 [Same Tree](Easy/0100-same-tree/) - Easy
-- #101 [Symmetric Tree](Easy/0101-symmetric-tree/) - Easy
 
 ## Bubble Sort (2)
 
