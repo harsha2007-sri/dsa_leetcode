@@ -12,7 +12,7 @@
 | **Total** | **127** | **127** |
 
 127 problem(s), 127 solution file(s) in this repository.
-Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-10-27).
+Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-10-31).
 
 ## Languages
 
