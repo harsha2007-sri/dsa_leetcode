@@ -10,7 +10,7 @@ class Solution(object):
         :type root: Optional[TreeNode]
         :rtype: List[int]
         """
-        result=[]
+        """ result=[]
         def preorder(curr,result):
             if not curr:
                 return
@@ -18,6 +18,10 @@ class Solution(object):
             preorder(curr.left,result)
             preorder(curr.right,result)
         preorder(root,result)
-        return result
+        return result"""
+        if root is None:
+            return []
 
+        return ([root.val] +self.preorderTraversal(root.left)+
+                self.preorderTraversal(root.right))
         
