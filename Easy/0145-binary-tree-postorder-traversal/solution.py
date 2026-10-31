@@ -10,7 +10,7 @@ class Solution(object):
         :type root: Optional[TreeNode]
         :rtype: List[int]
         """
-        result=[]
+        """result=[]
         def postorder(curr,result):
             if not curr:
                 return
@@ -18,5 +18,9 @@ class Solution(object):
             postorder(curr.right,result)
             result.append(curr.val)
         postorder(root,result)
-        return result
-        
+        return result"""
+        if root is None:
+            return []
+
+        return (self.postorderTraversal(root.left)+
+                self.postorderTraversal(root.right) + [root.val])
