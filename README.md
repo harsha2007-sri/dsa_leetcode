@@ -7,18 +7,18 @@
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
 | Easy | 83 | 83 |
-| Medium | 44 | 44 |
+| Medium | 45 | 45 |
 | Hard | 3 | 3 |
-| **Total** | **130** | **130** |
+| **Total** | **131** | **131** |
 
-130 problem(s), 130 solution file(s) in this repository.
+131 problem(s), 131 solution file(s) in this repository.
 Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-10-31).
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python | 124 |
+| Python | 125 |
 | Python3 | 6 |
 
 Browse by topic: [TOPICS.md](TOPICS.md)
@@ -115,7 +115,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 
 </details>
 
-<details><summary><b>Medium</b> (44)</summary>
+<details><summary><b>Medium</b> (45)</summary>
 
 | # | Problem | Language(s) | Link |
 |---|---------|-------------|------|
@@ -136,6 +136,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | Python | [folder](Medium/0075-sort-colors/) |
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | Python | [folder](Medium/0102-binary-tree-level-order-traversal/) |
 | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Python | [folder](Medium/0150-evaluate-reverse-polish-notation/) |
+| 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | Python | [folder](Medium/0162-find-peak-element/) |
 | 164 | [Maximum Gap](https://leetcode.com/problems/maximum-gap/) | Python | [folder](Medium/0164-maximum-gap/) |
 | 166 | [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/) | Python | [folder](Medium/0166-fraction-to-recurring-decimal/) |
 | 179 | [Largest Number](https://leetcode.com/problems/largest-number/) | Python | [folder](Medium/0179-largest-number/) |
