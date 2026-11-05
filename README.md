@@ -7,18 +7,18 @@
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
 | Easy | 84 | 84 |
-| Medium | 45 | 45 |
+| Medium | 46 | 46 |
 | Hard | 3 | 3 |
-| **Total** | **132** | **132** |
+| **Total** | **133** | **133** |
 
-132 problem(s), 132 solution file(s) in this repository.
+133 problem(s), 133 solution file(s) in this repository.
 Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-11-05).
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python | 126 |
+| Python | 127 |
 | Python3 | 6 |
 
 Browse by topic: [TOPICS.md](TOPICS.md)
@@ -116,7 +116,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 
 </details>
 
-<details><summary><b>Medium</b> (45)</summary>
+<details><summary><b>Medium</b> (46)</summary>
 
 | # | Problem | Language(s) | Link |
 |---|---------|-------------|------|
@@ -146,6 +146,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | Python | [folder](Medium/0287-find-the-duplicate-number/) |
 | 378 | [Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) | Python | [folder](Medium/0378-kth-smallest-element-in-a-sorted-matrix/) |
 | 486 | [Predict the Winner](https://leetcode.com/problems/predict-the-winner/) | Python | [folder](Medium/0486-predict-the-winner/) |
+| 701 | [Insert into a Binary Search Tree](https://leetcode.com/problems/insert-into-a-binary-search-tree/) | Python | [folder](Medium/0701-insert-into-a-binary-search-tree/) |
 | 707 | [Design Linked List](https://leetcode.com/problems/design-linked-list/) | Python | [folder](Medium/0707-design-linked-list/) |
 | 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) | Python | [folder](Medium/0739-daily-temperatures/) |
 | 877 | [Stone Game](https://leetcode.com/problems/stone-game/) | Python | [folder](Medium/0877-stone-game/) |
