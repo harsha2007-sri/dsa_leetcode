@@ -255,6 +255,20 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3312 [Sorted GCD Pair Queries](Hard/3312-sorted-gcd-pair-queries/) - Hard
 - #3532 [Path Existence Queries in a Graph I](Medium/3532-path-existence-queries-in-a-graph-i/) - Medium
 
+## Binary Tree (11)
+
+- #94 [Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/) - Easy
+- #100 [Same Tree](Easy/0100-same-tree/) - Easy
+- #101 [Symmetric Tree](Easy/0101-symmetric-tree/) - Easy
+- #102 [Binary Tree Level Order Traversal](Medium/0102-binary-tree-level-order-traversal/) - Medium
+- #104 [Maximum Depth of Binary Tree](Easy/0104-maximum-depth-of-binary-tree/) - Easy
+- #110 [Balanced Binary Tree](Easy/0110-balanced-binary-tree/) - Easy
+- #144 [Binary Tree Preorder Traversal](Easy/0144-binary-tree-preorder-traversal/) - Easy
+- #145 [Binary Tree Postorder Traversal](Easy/0145-binary-tree-postorder-traversal/) - Easy
+- #257 [Binary Tree Paths](Easy/0257-binary-tree-paths/) - Easy
+- #700 [Search in a Binary Search Tree](Easy/0700-search-in-a-binary-search-tree/) - Easy
+- #701 [Insert into a Binary Search Tree](Medium/0701-insert-into-a-binary-search-tree/) - Medium
+
 ## Dynamic Programming (11)
 
 - #5 [Longest Palindromic Substring](Medium/0005-longest-palindromic-substring/) - Medium
@@ -283,25 +297,13 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3069 [Distribute Elements Into Two Arrays I](Easy/3069-distribute-elements-into-two-arrays-i/) - Easy
 - #3838 [Weighted Word Mapping](Easy/3838-weighted-word-mapping/) - Easy
 
-## Binary Tree (10)
+## Tree (11)
 
 - #94 [Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/) - Easy
 - #100 [Same Tree](Easy/0100-same-tree/) - Easy
 - #101 [Symmetric Tree](Easy/0101-symmetric-tree/) - Easy
 - #102 [Binary Tree Level Order Traversal](Medium/0102-binary-tree-level-order-traversal/) - Medium
-- #110 [Balanced Binary Tree](Easy/0110-balanced-binary-tree/) - Easy
-- #144 [Binary Tree Preorder Traversal](Easy/0144-binary-tree-preorder-traversal/) - Easy
-- #145 [Binary Tree Postorder Traversal](Easy/0145-binary-tree-postorder-traversal/) - Easy
-- #257 [Binary Tree Paths](Easy/0257-binary-tree-paths/) - Easy
-- #700 [Search in a Binary Search Tree](Easy/0700-search-in-a-binary-search-tree/) - Easy
-- #701 [Insert into a Binary Search Tree](Medium/0701-insert-into-a-binary-search-tree/) - Medium
-
-## Tree (10)
-
-- #94 [Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/) - Easy
-- #100 [Same Tree](Easy/0100-same-tree/) - Easy
-- #101 [Symmetric Tree](Easy/0101-symmetric-tree/) - Easy
-- #102 [Binary Tree Level Order Traversal](Medium/0102-binary-tree-level-order-traversal/) - Medium
+- #104 [Maximum Depth of Binary Tree](Easy/0104-maximum-depth-of-binary-tree/) - Easy
 - #110 [Balanced Binary Tree](Easy/0110-balanced-binary-tree/) - Easy
 - #144 [Binary Tree Preorder Traversal](Easy/0144-binary-tree-preorder-traversal/) - Easy
 - #145 [Binary Tree Postorder Traversal](Easy/0145-binary-tree-postorder-traversal/) - Easy
@@ -320,6 +322,17 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3513 [Number of Unique XOR Triplets I](Medium/3513-number-of-unique-xor-triplets-i/) - Medium
 - #3702 [Longest Subsequence With Non-Zero Bitwise XOR](Medium/3702-longest-subsequence-with-non-zero-bitwise-xor/) - Medium
 
+## Depth-First Search (8)
+
+- #94 [Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/) - Easy
+- #100 [Same Tree](Easy/0100-same-tree/) - Easy
+- #101 [Symmetric Tree](Easy/0101-symmetric-tree/) - Easy
+- #104 [Maximum Depth of Binary Tree](Easy/0104-maximum-depth-of-binary-tree/) - Easy
+- #110 [Balanced Binary Tree](Easy/0110-balanced-binary-tree/) - Easy
+- #144 [Binary Tree Preorder Traversal](Easy/0144-binary-tree-preorder-traversal/) - Easy
+- #145 [Binary Tree Postorder Traversal](Easy/0145-binary-tree-postorder-traversal/) - Easy
+- #257 [Binary Tree Paths](Easy/0257-binary-tree-paths/) - Easy
+
 ## Recursion (8)
 
 - #2 [Add Two Numbers](Medium/0002-add-two-numbers/) - Medium
@@ -330,16 +343,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #326 [Power of Three](Easy/0326-power-of-three/) - Easy
 - #486 [Predict the Winner](Medium/0486-predict-the-winner/) - Medium
 - #509 [Fibonacci Number](Easy/0509-fibonacci-number/) - Easy
-
-## Depth-First Search (7)
-
-- #94 [Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/) - Easy
-- #100 [Same Tree](Easy/0100-same-tree/) - Easy
-- #101 [Symmetric Tree](Easy/0101-symmetric-tree/) - Easy
-- #110 [Balanced Binary Tree](Easy/0110-balanced-binary-tree/) - Easy
-- #144 [Binary Tree Preorder Traversal](Easy/0144-binary-tree-preorder-traversal/) - Easy
-- #145 [Binary Tree Postorder Traversal](Easy/0145-binary-tree-postorder-traversal/) - Easy
-- #257 [Binary Tree Paths](Easy/0257-binary-tree-paths/) - Easy
 
 ## Greedy (7)
 
@@ -401,6 +404,13 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #1021 [Remove Outermost Parentheses](Easy/1021-remove-outermost-parentheses/) - Easy
 - #1614 [Maximum Nesting Depth of the Parentheses](Easy/1614-maximum-nesting-depth-of-the-parentheses/) - Easy
 
+## Breadth-First Search (4)
+
+- #100 [Same Tree](Easy/0100-same-tree/) - Easy
+- #101 [Symmetric Tree](Easy/0101-symmetric-tree/) - Easy
+- #102 [Binary Tree Level Order Traversal](Medium/0102-binary-tree-level-order-traversal/) - Medium
+- #104 [Maximum Depth of Binary Tree](Easy/0104-maximum-depth-of-binary-tree/) - Easy
+
 ## Monotonic Stack (4)
 
 - #496 [Next Greater Element I](Easy/0496-next-greater-element-i/) - Easy
@@ -428,12 +438,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #877 [Stone Game](Medium/0877-stone-game/) - Medium
 - #1406 [Stone Game III](Hard/1406-stone-game-iii/) - Hard
 - #2029 [Stone Game IX](Medium/2029-stone-game-ix/) - Medium
-
-## Breadth-First Search (3)
-
-- #100 [Same Tree](Easy/0100-same-tree/) - Easy
-- #101 [Symmetric Tree](Easy/0101-symmetric-tree/) - Easy
-- #102 [Binary Tree Level Order Traversal](Medium/0102-binary-tree-level-order-traversal/) - Medium
 
 ## Counting (3)
 
