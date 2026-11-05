@@ -2,7 +2,7 @@
 
 Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 
-## Array (62)
+## Array (63)
 
 - #1 [Two Sum](Easy/0001-two-sum/) - Easy
 - #27 [Remove Element](Easy/0027-remove-element/) - Easy
@@ -23,6 +23,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #162 [Find Peak Element](Medium/0162-find-peak-element/) - Medium
 - #164 [Maximum Gap](Medium/0164-maximum-gap/) - Medium
 - #179 [Largest Number](Medium/0179-largest-number/) - Medium
+- #198 [House Robber](Medium/0198-house-robber/) - Medium
 - #209 [Minimum Size Subarray Sum](Medium/0209-minimum-size-subarray-sum/) - Medium
 - #215 [Kth Largest Element in an Array](Medium/0215-kth-largest-element-in-an-array/) - Medium
 - #217 [Contains Duplicate](Easy/0217-contains-duplicate/) - Easy
@@ -255,6 +256,21 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3312 [Sorted GCD Pair Queries](Hard/3312-sorted-gcd-pair-queries/) - Hard
 - #3532 [Path Existence Queries in a Graph I](Medium/3532-path-existence-queries-in-a-graph-i/) - Medium
 
+## Dynamic Programming (12)
+
+- #5 [Longest Palindromic Substring](Medium/0005-longest-palindromic-substring/) - Medium
+- #53 [Maximum Subarray](Medium/0053-maximum-subarray/) - Medium
+- #70 [Climbing Stairs](Easy/0070-climbing-stairs/) - Easy
+- #72 [Edit Distance](Medium/0072-edit-distance/) - Medium
+- #121 [Best Time to Buy and Sell Stock](Easy/0121-best-time-to-buy-and-sell-stock/) - Easy
+- #198 [House Robber](Medium/0198-house-robber/) - Medium
+- #392 [Is Subsequence](Easy/0392-is-subsequence/) - Easy
+- #486 [Predict the Winner](Medium/0486-predict-the-winner/) - Medium
+- #509 [Fibonacci Number](Easy/0509-fibonacci-number/) - Easy
+- #877 [Stone Game](Medium/0877-stone-game/) - Medium
+- #1025 [Divisor Game](Easy/1025-divisor-game/) - Easy
+- #1406 [Stone Game III](Hard/1406-stone-game-iii/) - Hard
+
 ## Binary Tree (11)
 
 - #94 [Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/) - Easy
@@ -268,20 +284,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #257 [Binary Tree Paths](Easy/0257-binary-tree-paths/) - Easy
 - #700 [Search in a Binary Search Tree](Easy/0700-search-in-a-binary-search-tree/) - Easy
 - #701 [Insert into a Binary Search Tree](Medium/0701-insert-into-a-binary-search-tree/) - Medium
-
-## Dynamic Programming (11)
-
-- #5 [Longest Palindromic Substring](Medium/0005-longest-palindromic-substring/) - Medium
-- #53 [Maximum Subarray](Medium/0053-maximum-subarray/) - Medium
-- #70 [Climbing Stairs](Easy/0070-climbing-stairs/) - Easy
-- #72 [Edit Distance](Medium/0072-edit-distance/) - Medium
-- #121 [Best Time to Buy and Sell Stock](Easy/0121-best-time-to-buy-and-sell-stock/) - Easy
-- #392 [Is Subsequence](Easy/0392-is-subsequence/) - Easy
-- #486 [Predict the Winner](Medium/0486-predict-the-winner/) - Medium
-- #509 [Fibonacci Number](Easy/0509-fibonacci-number/) - Easy
-- #877 [Stone Game](Medium/0877-stone-game/) - Medium
-- #1025 [Divisor Game](Easy/1025-divisor-game/) - Easy
-- #1406 [Stone Game III](Hard/1406-stone-game-iii/) - Hard
 
 ## Simulation (11)
 
