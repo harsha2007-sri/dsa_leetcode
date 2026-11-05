@@ -7,18 +7,18 @@
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
 | Easy | 85 | 85 |
-| Medium | 46 | 46 |
+| Medium | 47 | 47 |
 | Hard | 3 | 3 |
-| **Total** | **134** | **134** |
+| **Total** | **135** | **135** |
 
-134 problem(s), 134 solution file(s) in this repository.
+135 problem(s), 135 solution file(s) in this repository.
 Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-11-05).
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python | 128 |
+| Python | 129 |
 | Python3 | 6 |
 
 Browse by topic: [TOPICS.md](TOPICS.md)
@@ -117,7 +117,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 
 </details>
 
-<details><summary><b>Medium</b> (46)</summary>
+<details><summary><b>Medium</b> (47)</summary>
 
 | # | Problem | Language(s) | Link |
 |---|---------|-------------|------|
@@ -142,6 +142,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 164 | [Maximum Gap](https://leetcode.com/problems/maximum-gap/) | Python | [folder](Medium/0164-maximum-gap/) |
 | 166 | [Fraction to Recurring Decimal](https://leetcode.com/problems/fraction-to-recurring-decimal/) | Python | [folder](Medium/0166-fraction-to-recurring-decimal/) |
 | 179 | [Largest Number](https://leetcode.com/problems/largest-number/) | Python | [folder](Medium/0179-largest-number/) |
+| 198 | [House Robber](https://leetcode.com/problems/house-robber/) | Python | [folder](Medium/0198-house-robber/) |
 | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | Python3 | [folder](Medium/0209-minimum-size-subarray-sum/) |
 | 215 | [Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/) | Python | [folder](Medium/0215-kth-largest-element-in-an-array/) |
 | 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | Python | [folder](Medium/0287-find-the-duplicate-number/) |
