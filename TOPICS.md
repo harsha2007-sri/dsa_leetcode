@@ -283,7 +283,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3069 [Distribute Elements Into Two Arrays I](Easy/3069-distribute-elements-into-two-arrays-i/) - Easy
 - #3838 [Weighted Word Mapping](Easy/3838-weighted-word-mapping/) - Easy
 
-## Binary Tree (8)
+## Binary Tree (9)
 
 - #94 [Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/) - Easy
 - #100 [Same Tree](Easy/0100-same-tree/) - Easy
@@ -293,6 +293,19 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #144 [Binary Tree Preorder Traversal](Easy/0144-binary-tree-preorder-traversal/) - Easy
 - #145 [Binary Tree Postorder Traversal](Easy/0145-binary-tree-postorder-traversal/) - Easy
 - #257 [Binary Tree Paths](Easy/0257-binary-tree-paths/) - Easy
+- #700 [Search in a Binary Search Tree](Easy/0700-search-in-a-binary-search-tree/) - Easy
+
+## Tree (9)
+
+- #94 [Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/) - Easy
+- #100 [Same Tree](Easy/0100-same-tree/) - Easy
+- #101 [Symmetric Tree](Easy/0101-symmetric-tree/) - Easy
+- #102 [Binary Tree Level Order Traversal](Medium/0102-binary-tree-level-order-traversal/) - Medium
+- #110 [Balanced Binary Tree](Easy/0110-balanced-binary-tree/) - Easy
+- #144 [Binary Tree Preorder Traversal](Easy/0144-binary-tree-preorder-traversal/) - Easy
+- #145 [Binary Tree Postorder Traversal](Easy/0145-binary-tree-postorder-traversal/) - Easy
+- #257 [Binary Tree Paths](Easy/0257-binary-tree-paths/) - Easy
+- #700 [Search in a Binary Search Tree](Easy/0700-search-in-a-binary-search-tree/) - Easy
 
 ## Bit Manipulation (8)
 
@@ -315,17 +328,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #326 [Power of Three](Easy/0326-power-of-three/) - Easy
 - #486 [Predict the Winner](Medium/0486-predict-the-winner/) - Medium
 - #509 [Fibonacci Number](Easy/0509-fibonacci-number/) - Easy
-
-## Tree (8)
-
-- #94 [Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/) - Easy
-- #100 [Same Tree](Easy/0100-same-tree/) - Easy
-- #101 [Symmetric Tree](Easy/0101-symmetric-tree/) - Easy
-- #102 [Binary Tree Level Order Traversal](Medium/0102-binary-tree-level-order-traversal/) - Medium
-- #110 [Balanced Binary Tree](Easy/0110-balanced-binary-tree/) - Easy
-- #144 [Binary Tree Preorder Traversal](Easy/0144-binary-tree-preorder-traversal/) - Easy
-- #145 [Binary Tree Postorder Traversal](Easy/0145-binary-tree-postorder-traversal/) - Easy
-- #257 [Binary Tree Paths](Easy/0257-binary-tree-paths/) - Easy
 
 ## Depth-First Search (7)
 
@@ -512,6 +514,10 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 ## Backtracking (1)
 
 - #257 [Binary Tree Paths](Easy/0257-binary-tree-paths/) - Easy
+
+## Binary Search Tree (1)
+
+- #700 [Search in a Binary Search Tree](Easy/0700-search-in-a-binary-search-tree/) - Easy
 
 ## Boyer–Moore String-Search Algorithm (1)
 
