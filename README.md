@@ -6,26 +6,26 @@
 
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
-| Easy | 85 | 85 |
+| Easy | 86 | 86 |
 | Medium | 47 | 47 |
 | Hard | 3 | 3 |
-| **Total** | **135** | **135** |
+| **Total** | **136** | **136** |
 
-135 problem(s), 135 solution file(s) in this repository.
-Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-11-05).
+136 problem(s), 136 solution file(s) in this repository.
+Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-11-15).
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python | 129 |
+| Python | 130 |
 | Python3 | 6 |
 
 Browse by topic: [TOPICS.md](TOPICS.md)
 
 ## Solutions
 
-<details><summary><b>Easy</b> (85)</summary>
+<details><summary><b>Easy</b> (86)</summary>
 
 | # | Problem | Language(s) | Link |
 |---|---------|-------------|------|
@@ -91,6 +91,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 1480 | [Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) | Python | [folder](Easy/1480-running-sum-of-1d-array/) |
 | 1544 | [Make The String Great](https://leetcode.com/problems/make-the-string-great/) | Python | [folder](Easy/1544-make-the-string-great/) |
 | 1614 | [Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/) | Python | [folder](Easy/1614-maximum-nesting-depth-of-the-parentheses/) |
+| 1791 | [Find Center of Star Graph](https://leetcode.com/problems/find-center-of-star-graph/) | Python | [folder](Easy/1791-find-center-of-star-graph/) |
 | 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) | Python | [folder](Easy/1929-concatenation-of-array/) |
 | 1935 | [Maximum Number of Words You Can Type](https://leetcode.com/problems/maximum-number-of-words-you-can-type/) | Python | [folder](Easy/1935-maximum-number-of-words-you-can-type/) |
 | 1967 | [Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/) | Python | [folder](Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) |
