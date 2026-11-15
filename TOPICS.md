@@ -494,6 +494,11 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #141 [Linked List Cycle](Easy/0141-linked-list-cycle/) - Easy
 - #287 [Find the Duplicate Number](Medium/0287-find-the-duplicate-number/) - Medium
 
+## Graph Theory (2)
+
+- #1791 [Find Center of Star Graph](Easy/1791-find-center-of-star-graph/) - Easy
+- #3532 [Path Existence Queries in a Graph I](Medium/3532-path-existence-queries-in-a-graph-i/) - Medium
+
 ## Greatest Common Divisor (2)
 
 - #1979 [Find Greatest Common Divisor of Array](Easy/1979-find-greatest-common-divisor-of-array/) - Easy
@@ -543,10 +548,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 ## Design (1)
 
 - #707 [Design Linked List](Medium/0707-design-linked-list/) - Medium
-
-## Graph Theory (1)
-
-- #3532 [Path Existence Queries in a Graph I](Medium/3532-path-existence-queries-in-a-graph-i/) - Medium
 
 ## Knuth–Morris–Pratt Algorithm (1)
 
