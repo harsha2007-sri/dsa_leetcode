@@ -7,18 +7,18 @@
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
 | Easy | 86 | 86 |
-| Medium | 47 | 47 |
+| Medium | 48 | 48 |
 | Hard | 3 | 3 |
-| **Total** | **136** | **136** |
+| **Total** | **137** | **137** |
 
-136 problem(s), 136 solution file(s) in this repository.
-Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-11-15).
+137 problem(s), 137 solution file(s) in this repository.
+Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-11-21).
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python | 130 |
+| Python | 131 |
 | Python3 | 6 |
 
 Browse by topic: [TOPICS.md](TOPICS.md)
@@ -118,7 +118,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 
 </details>
 
-<details><summary><b>Medium</b> (47)</summary>
+<details><summary><b>Medium</b> (48)</summary>
 
 | # | Problem | Language(s) | Link |
 |---|---------|-------------|------|
@@ -138,6 +138,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 72 | [Edit Distance](https://leetcode.com/problems/edit-distance/) | Python | [folder](Medium/0072-edit-distance/) |
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | Python | [folder](Medium/0075-sort-colors/) |
 | 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | Python | [folder](Medium/0102-binary-tree-level-order-traversal/) |
+| 143 | [Reorder List](https://leetcode.com/problems/reorder-list/) | Python | [folder](Medium/0143-reorder-list/) |
 | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Python | [folder](Medium/0150-evaluate-reverse-polish-notation/) |
 | 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | Python | [folder](Medium/0162-find-peak-element/) |
 | 164 | [Maximum Gap](https://leetcode.com/problems/maximum-gap/) | Python | [folder](Medium/0164-maximum-gap/) |
