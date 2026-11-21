@@ -5,10 +5,21 @@ class Solution(object):
         :type needle: str
         :rtype: int
         """
-        n,m=len(haystack),len(needle)
-        for s1 in range(n-m+1):
-            if haystack[s1:s1+m]==needle[:]:
-                return s1
-        return -1
+        """l,r=len(needle),0
+        found=False
+        if len(haystack)==len(needle):
+            return 0
+        for i in range(l,len(haystack)):
+            if haystack[r:i]==needle:
+                found=True
+                break
+            r+=1
 
-        #return haystack.find(needle)
+        return r if found else -1"""
+        
+        k = len(needle)
+        for i in range(len(haystack)-k+1):
+            if haystack[i:i+k] == needle:
+                return i
+            
+        return -1
