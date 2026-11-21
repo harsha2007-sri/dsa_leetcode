@@ -202,10 +202,11 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #3536 [Maximum Product of Two Digits](Easy/3536-maximum-product-of-two-digits/) - Easy
 - #3731 [Find Missing Elements](Easy/3731-find-missing-elements/) - Easy
 
-## Stack (18)
+## Stack (19)
 
 - #20 [Valid Parentheses](Easy/0020-valid-parentheses/) - Easy
 - #94 [Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/) - Easy
+- #143 [Reorder List](Medium/0143-reorder-list/) - Medium
 - #144 [Binary Tree Preorder Traversal](Easy/0144-binary-tree-preorder-traversal/) - Easy
 - #145 [Binary Tree Postorder Traversal](Easy/0145-binary-tree-postorder-traversal/) - Easy
 - #150 [Evaluate Reverse Polish Notation](Medium/0150-evaluate-reverse-polish-notation/) - Medium
@@ -223,7 +224,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #1544 [Make The String Great](Easy/1544-make-the-string-great/) - Easy
 - #1614 [Maximum Nesting Depth of the Parentheses](Easy/1614-maximum-nesting-depth-of-the-parentheses/) - Easy
 
-## Two Pointers (14)
+## Two Pointers (15)
 
 - #5 [Longest Palindromic Substring](Medium/0005-longest-palindromic-substring/) - Medium
 - #27 [Remove Element](Easy/0027-remove-element/) - Easy
@@ -232,6 +233,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #88 [Merge Sorted Array](Easy/0088-merge-sorted-array/) - Easy
 - #125 [Valid Palindrome](Easy/0125-valid-palindrome/) - Easy
 - #141 [Linked List Cycle](Easy/0141-linked-list-cycle/) - Easy
+- #143 [Reorder List](Medium/0143-reorder-list/) - Medium
 - #283 [Move Zeroes](Easy/0283-move-zeroes/) - Easy
 - #287 [Find the Duplicate Number](Medium/0287-find-the-duplicate-number/) - Medium
 - #392 [Is Subsequence](Easy/0392-is-subsequence/) - Easy
@@ -313,6 +315,18 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #700 [Search in a Binary Search Tree](Easy/0700-search-in-a-binary-search-tree/) - Easy
 - #701 [Insert into a Binary Search Tree](Medium/0701-insert-into-a-binary-search-tree/) - Medium
 
+## Recursion (9)
+
+- #2 [Add Two Numbers](Medium/0002-add-two-numbers/) - Medium
+- #50 [Pow(x, n)](Medium/0050-powx-n/) - Medium
+- #143 [Reorder List](Medium/0143-reorder-list/) - Medium
+- #206 [Reverse Linked List](Easy/0206-reverse-linked-list/) - Easy
+- #224 [Basic Calculator](Hard/0224-basic-calculator/) - Hard
+- #231 [Power of Two](Easy/0231-power-of-two/) - Easy
+- #326 [Power of Three](Easy/0326-power-of-three/) - Easy
+- #486 [Predict the Winner](Medium/0486-predict-the-winner/) - Medium
+- #509 [Fibonacci Number](Easy/0509-fibonacci-number/) - Easy
+
 ## Bit Manipulation (8)
 
 - #136 [Single Number](Easy/0136-single-number/) - Easy
@@ -335,16 +349,16 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #145 [Binary Tree Postorder Traversal](Easy/0145-binary-tree-postorder-traversal/) - Easy
 - #257 [Binary Tree Paths](Easy/0257-binary-tree-paths/) - Easy
 
-## Recursion (8)
+## Linked List (8)
 
 - #2 [Add Two Numbers](Medium/0002-add-two-numbers/) - Medium
-- #50 [Pow(x, n)](Medium/0050-powx-n/) - Medium
+- #83 [Remove Duplicates from Sorted List](Easy/0083-remove-duplicates-from-sorted-list/) - Easy
+- #141 [Linked List Cycle](Easy/0141-linked-list-cycle/) - Easy
+- #143 [Reorder List](Medium/0143-reorder-list/) - Medium
 - #206 [Reverse Linked List](Easy/0206-reverse-linked-list/) - Easy
-- #224 [Basic Calculator](Hard/0224-basic-calculator/) - Hard
-- #231 [Power of Two](Easy/0231-power-of-two/) - Easy
-- #326 [Power of Three](Easy/0326-power-of-three/) - Easy
-- #486 [Predict the Winner](Medium/0486-predict-the-winner/) - Medium
-- #509 [Fibonacci Number](Easy/0509-fibonacci-number/) - Easy
+- #707 [Design Linked List](Medium/0707-design-linked-list/) - Medium
+- #876 [Middle of the Linked List](Easy/0876-middle-of-the-linked-list/) - Easy
+- #2095 [Delete the Middle Node of a Linked List](Medium/2095-delete-the-middle-node-of-a-linked-list/) - Medium
 
 ## Greedy (7)
 
@@ -355,16 +369,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #2029 [Stone Game IX](Medium/2029-stone-game-ix/) - Medium
 - #3014 [Minimum Number of Pushes to Type Word I](Easy/3014-minimum-number-of-pushes-to-type-word-i/) - Easy
 - #3016 [Minimum Number of Pushes to Type Word II](Medium/3016-minimum-number-of-pushes-to-type-word-ii/) - Medium
-
-## Linked List (7)
-
-- #2 [Add Two Numbers](Medium/0002-add-two-numbers/) - Medium
-- #83 [Remove Duplicates from Sorted List](Easy/0083-remove-duplicates-from-sorted-list/) - Easy
-- #141 [Linked List Cycle](Easy/0141-linked-list-cycle/) - Easy
-- #206 [Reverse Linked List](Easy/0206-reverse-linked-list/) - Easy
-- #707 [Design Linked List](Medium/0707-design-linked-list/) - Medium
-- #876 [Middle of the Linked List](Easy/0876-middle-of-the-linked-list/) - Easy
-- #2095 [Delete the Middle Node of a Linked List](Medium/2095-delete-the-middle-node-of-a-linked-list/) - Medium
 
 ## Game Theory (6)
 
