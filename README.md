@@ -6,26 +6,26 @@
 
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
-| Easy | 87 | 87 |
+| Easy | 88 | 88 |
 | Medium | 48 | 48 |
 | Hard | 3 | 3 |
-| **Total** | **138** | **138** |
+| **Total** | **139** | **139** |
 
-138 problem(s), 138 solution file(s) in this repository.
+139 problem(s), 139 solution file(s) in this repository.
 Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-11-21).
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python | 132 |
+| Python | 133 |
 | Python3 | 6 |
 
 Browse by topic: [TOPICS.md](TOPICS.md)
 
 ## Solutions
 
-<details><summary><b>Easy</b> (87)</summary>
+<details><summary><b>Easy</b> (88)</summary>
 
 | # | Problem | Language(s) | Link |
 |---|---------|-------------|------|
@@ -81,6 +81,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | Python | [folder](Easy/0905-sort-array-by-parity/) |
 | 1021 | [Remove Outermost Parentheses](https://leetcode.com/problems/remove-outermost-parentheses/) | Python | [folder](Easy/1021-remove-outermost-parentheses/) |
 | 1025 | [Divisor Game](https://leetcode.com/problems/divisor-game/) | Python | [folder](Easy/1025-divisor-game/) |
+| 1046 | [Last Stone Weight](https://leetcode.com/problems/last-stone-weight/) | Python | [folder](Easy/1046-last-stone-weight/) |
 | 1047 | [Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | Python | [folder](Easy/1047-remove-all-adjacent-duplicates-in-string/) |
 | 1051 | [Height Checker](https://leetcode.com/problems/height-checker/) | Python | [folder](Easy/1051-height-checker/) |
 | 1260 | [Shift 2D Grid](https://leetcode.com/problems/shift-2d-grid/) | Python | [folder](Easy/1260-shift-2d-grid/) |
