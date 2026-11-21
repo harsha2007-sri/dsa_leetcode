@@ -2,7 +2,7 @@
 
 Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 
-## Array (64)
+## Array (65)
 
 - #1 [Two Sum](Easy/0001-two-sum/) - Easy
 - #27 [Remove Element](Easy/0027-remove-element/) - Easy
@@ -43,6 +43,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #896 [Monotonic Array](Easy/0896-monotonic-array/) - Easy
 - #905 [Sort Array By Parity](Easy/0905-sort-array-by-parity/) - Easy
 - #946 [Validate Stack Sequences](Medium/0946-validate-stack-sequences/) - Medium
+- #1046 [Last Stone Weight](Easy/1046-last-stone-weight/) - Easy
 - #1051 [Height Checker](Easy/1051-height-checker/) - Easy
 - #1260 [Shift 2D Grid](Easy/1260-shift-2d-grid/) - Easy
 - #1406 [Stone Game III](Hard/1406-stone-game-iii/) - Hard
@@ -419,6 +420,13 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #102 [Binary Tree Level Order Traversal](Medium/0102-binary-tree-level-order-traversal/) - Medium
 - #104 [Maximum Depth of Binary Tree](Easy/0104-maximum-depth-of-binary-tree/) - Easy
 
+## Heap (Priority Queue) (4)
+
+- #215 [Kth Largest Element in an Array](Medium/0215-kth-largest-element-in-an-array/) - Medium
+- #378 [Kth Smallest Element in a Sorted Matrix](Medium/0378-kth-smallest-element-in-a-sorted-matrix/) - Medium
+- #1046 [Last Stone Weight](Easy/1046-last-stone-weight/) - Easy
+- #1464 [Maximum Product of Two Elements in an Array](Easy/1464-maximum-product-of-two-elements-in-an-array/) - Easy
+
 ## Monotonic Stack (4)
 
 - #496 [Next Greater Element I](Easy/0496-next-greater-element-i/) - Easy
@@ -458,12 +466,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #1291 [Sequential Digits](Medium/1291-sequential-digits/) - Medium
 - #3345 [Smallest Divisible Digit Product I](Easy/3345-smallest-divisible-digit-product-i/) - Easy
 - #3499 [Maximize Active Section with Trade I](Medium/3499-maximize-active-section-with-trade-i/) - Medium
-
-## Heap (Priority Queue) (3)
-
-- #215 [Kth Largest Element in an Array](Medium/0215-kth-largest-element-in-an-array/) - Medium
-- #378 [Kth Smallest Element in a Sorted Matrix](Medium/0378-kth-smallest-element-in-a-sorted-matrix/) - Medium
-- #1464 [Maximum Product of Two Elements in an Array](Easy/1464-maximum-product-of-two-elements-in-an-array/) - Easy
 
 ## Binary Search Tree (2)
 
