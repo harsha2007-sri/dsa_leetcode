@@ -6,26 +6,26 @@
 
 | Difficulty | Synced to GitHub | Solved on LeetCode |
 |------------|-----------------:|--------------------:|
-| Easy | 86 | 86 |
+| Easy | 87 | 87 |
 | Medium | 48 | 48 |
 | Hard | 3 | 3 |
-| **Total** | **137** | **137** |
+| **Total** | **138** | **138** |
 
-137 problem(s), 137 solution file(s) in this repository.
+138 problem(s), 138 solution file(s) in this repository.
 Solved-on-LeetCode counts are kept in sync with LeetCode (last checked 2026-11-21).
 
 ## Languages
 
 | Language | Files |
 |----------|------:|
-| Python | 131 |
+| Python | 132 |
 | Python3 | 6 |
 
 Browse by topic: [TOPICS.md](TOPICS.md)
 
 ## Solutions
 
-<details><summary><b>Easy</b> (86)</summary>
+<details><summary><b>Easy</b> (87)</summary>
 
 | # | Problem | Language(s) | Link |
 |---|---------|-------------|------|
@@ -96,6 +96,7 @@ Browse by topic: [TOPICS.md](TOPICS.md)
 | 1935 | [Maximum Number of Words You Can Type](https://leetcode.com/problems/maximum-number-of-words-you-can-type/) | Python | [folder](Easy/1935-maximum-number-of-words-you-can-type/) |
 | 1967 | [Number of Strings That Appear as Substrings in Word](https://leetcode.com/problems/number-of-strings-that-appear-as-substrings-in-word/) | Python | [folder](Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) |
 | 1979 | [Find Greatest Common Divisor of Array](https://leetcode.com/problems/find-greatest-common-divisor-of-array/) | Python | [folder](Easy/1979-find-greatest-common-divisor-of-array/) |
+| 2073 | [Time Needed to Buy Tickets](https://leetcode.com/problems/time-needed-to-buy-tickets/) | Python | [folder](Easy/2073-time-needed-to-buy-tickets/) |
 | 2089 | [Find Target Indices After Sorting Array](https://leetcode.com/problems/find-target-indices-after-sorting-array/) | Python | [folder](Easy/2089-find-target-indices-after-sorting-array/) |
 | 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers/) | Python | [folder](Easy/2235-add-two-integers/) |
 | 2278 | [Percentage of Letter in String](https://leetcode.com/problems/percentage-of-letter-in-string/) | Python | [folder](Easy/2278-percentage-of-letter-in-string/) |
