@@ -2,7 +2,7 @@
 
 Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 
-## Array (63)
+## Array (64)
 
 - #1 [Two Sum](Easy/0001-two-sum/) - Easy
 - #27 [Remove Element](Easy/0027-remove-element/) - Easy
@@ -56,6 +56,7 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #1967 [Number of Strings That Appear as Substrings in Word](Easy/1967-number-of-strings-that-appear-as-substrings-in-word/) - Easy
 - #1979 [Find Greatest Common Divisor of Array](Easy/1979-find-greatest-common-divisor-of-array/) - Easy
 - #2029 [Stone Game IX](Medium/2029-stone-game-ix/) - Medium
+- #2073 [Time Needed to Buy Tickets](Easy/2073-time-needed-to-buy-tickets/) - Easy
 - #2089 [Find Target Indices After Sorting Array](Easy/2089-find-target-indices-after-sorting-array/) - Easy
 - #2996 [Smallest Missing Integer Greater Than Sequential Prefix Sum](Easy/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) - Easy
 - #3069 [Distribute Elements Into Two Arrays I](Easy/3069-distribute-elements-into-two-arrays-i/) - Easy
@@ -273,6 +274,21 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #1025 [Divisor Game](Easy/1025-divisor-game/) - Easy
 - #1406 [Stone Game III](Hard/1406-stone-game-iii/) - Hard
 
+## Simulation (12)
+
+- #258 [Add Digits](Easy/0258-add-digits/) - Easy
+- #412 [Fizz Buzz](Easy/0412-fizz-buzz/) - Easy
+- #415 [Add Strings](Easy/0415-add-strings/) - Easy
+- #682 [Baseball Game](Easy/0682-baseball-game/) - Easy
+- #867 [Transpose Matrix](Easy/0867-transpose-matrix/) - Easy
+- #946 [Validate Stack Sequences](Medium/0946-validate-stack-sequences/) - Medium
+- #1260 [Shift 2D Grid](Easy/1260-shift-2d-grid/) - Easy
+- #1441 [Build an Array With Stack Operations](Medium/1441-build-an-array-with-stack-operations/) - Medium
+- #1929 [Concatenation of Array](Easy/1929-concatenation-of-array/) - Easy
+- #2073 [Time Needed to Buy Tickets](Easy/2073-time-needed-to-buy-tickets/) - Easy
+- #3069 [Distribute Elements Into Two Arrays I](Easy/3069-distribute-elements-into-two-arrays-i/) - Easy
+- #3838 [Weighted Word Mapping](Easy/3838-weighted-word-mapping/) - Easy
+
 ## Binary Tree (11)
 
 - #94 [Binary Tree Inorder Traversal](Easy/0094-binary-tree-inorder-traversal/) - Easy
@@ -286,20 +302,6 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 - #257 [Binary Tree Paths](Easy/0257-binary-tree-paths/) - Easy
 - #700 [Search in a Binary Search Tree](Easy/0700-search-in-a-binary-search-tree/) - Easy
 - #701 [Insert into a Binary Search Tree](Medium/0701-insert-into-a-binary-search-tree/) - Medium
-
-## Simulation (11)
-
-- #258 [Add Digits](Easy/0258-add-digits/) - Easy
-- #412 [Fizz Buzz](Easy/0412-fizz-buzz/) - Easy
-- #415 [Add Strings](Easy/0415-add-strings/) - Easy
-- #682 [Baseball Game](Easy/0682-baseball-game/) - Easy
-- #867 [Transpose Matrix](Easy/0867-transpose-matrix/) - Easy
-- #946 [Validate Stack Sequences](Medium/0946-validate-stack-sequences/) - Medium
-- #1260 [Shift 2D Grid](Easy/1260-shift-2d-grid/) - Easy
-- #1441 [Build an Array With Stack Operations](Medium/1441-build-an-array-with-stack-operations/) - Medium
-- #1929 [Concatenation of Array](Easy/1929-concatenation-of-array/) - Easy
-- #3069 [Distribute Elements Into Two Arrays I](Easy/3069-distribute-elements-into-two-arrays-i/) - Easy
-- #3838 [Weighted Word Mapping](Easy/3838-weighted-word-mapping/) - Easy
 
 ## Tree (11)
 
@@ -564,6 +566,10 @@ Generated automatically by LeetCode GitHub Sync. Do not edit by hand.
 ## Newton's Method (1)
 
 - #69 [Sqrt(x)](Easy/0069-sqrtx/) - Easy
+
+## Queue (1)
+
+- #2073 [Time Needed to Buy Tickets](Easy/2073-time-needed-to-buy-tickets/) - Easy
 
 ## Quickselect (1)
 
